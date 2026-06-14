@@ -1,0 +1,1001 @@
+Resume_ID,Skills,Experience (Years),Education,Certifications,Job Role,Recruiter Decision,Salary Expectation ($),Projects Count
+1,"Java, Machine Learning, React",7,M.Sc,Azure Fundamentals,Data Analyst,1,60185,7
+2,"Java, Docker, React",5,B.Tech,None,Data Analyst,0,117385,1
+3,"Java, Data Analysis, React",10,B.Tech,Google Data Analytics,ML Engineer,1,84514,11
+4,"AWS, Data Analysis, SQL",0,M.Tech,AWS Certified,Data Scientist,0,71392,12
+5,"Machine Learning, AWS, SQL",10,B.Sc,PMP,Software Engineer,1,40940,3
+6,"AWS, Data Analysis, React",9,MBA,Azure Fundamentals,ML Engineer,1,72409,20
+7,"Python, Java, React",2,B.Sc,AWS Certified,Data Scientist,1,56672,20
+8,"Java, Python, Docker",2,M.Tech,AWS Certified,Software Engineer,1,104716,12
+9,"Java, Machine Learning, Data Analysis",3,B.Tech,AWS Certified,Data Analyst,1,66295,12
+10,"Docker, React, Java",7,B.Sc,PMP,Data Scientist,1,34852,13
+11,"Java, Docker, AWS",7,M.Sc,Google Data Analytics,ML Engineer,1,107999,18
+12,"Python, Data Analysis, Machine Learning",7,M.Sc,Google Data Analytics,Software Engineer,1,90866,9
+13,"Data Analysis, React, SQL",4,MBA,Google Data Analytics,ML Engineer,1,53788,5
+14,"SQL, Java, React",8,MBA,PMP,ML Engineer,1,36199,7
+15,"AWS, Java, Data Analysis",0,M.Sc,Google Data Analytics,ML Engineer,0,76876,15
+16,"Data Analysis, Docker, SQL",6,M.Sc,Azure Fundamentals,ML Engineer,1,64460,19
+17,"Python, Docker, Java",6,MBA,AWS Certified,Data Scientist,1,38047,16
+18,"React, SQL, Data Analysis",0,M.Tech,AWS Certified,Data Scientist,0,37434,18
+19,"SQL, Docker, Machine Learning",0,M.Tech,None,Data Scientist,0,39940,7
+20,"Docker, Java, AWS",10,M.Tech,Google Data Analytics,ML Engineer,1,57997,10
+21,"Python, Docker, Java",5,B.Tech,Google Data Analytics,ML Engineer,1,117519,20
+22,"AWS, Data Analysis, SQL",3,B.Tech,Google Data Analytics,Data Analyst,1,44267,6
+23,"Java, Python, AWS",8,M.Tech,Google Data Analytics,Data Analyst,1,99495,14
+24,"Docker, AWS, SQL",6,MBA,None,Data Scientist,1,94120,5
+25,"Java, Docker, Data Analysis",2,M.Sc,None,Data Scientist,1,74761,6
+26,"Java, Data Analysis, React",2,B.Sc,AWS Certified,Software Engineer,1,43269,19
+27,"AWS, Docker, Python",9,M.Sc,Google Data Analytics,Data Analyst,1,37237,15
+28,"Data Analysis, Java, AWS",6,B.Sc,PMP,Software Engineer,1,63537,19
+29,"Python, AWS, Data Analysis",9,M.Tech,Google Data Analytics,Software Engineer,0,83862,1
+30,"AWS, Docker, Data Analysis",0,MBA,Google Data Analytics,Data Scientist,0,103050,17
+31,"Machine Learning, React, Java",5,MBA,Google Data Analytics,Software Engineer,1,51379,12
+32,"Python, AWS, Data Analysis",5,B.Sc,Azure Fundamentals,Data Analyst,0,73252,2
+33,"SQL, React, Machine Learning",10,MBA,None,Software Engineer,1,107656,19
+34,"Data Analysis, Docker, Machine Learning",5,B.Sc,PMP,Data Analyst,0,33639,2
+35,"Data Analysis, AWS, Docker",2,MBA,Azure Fundamentals,Software Engineer,1,50600,12
+36,"Java, AWS, Python",4,MBA,Azure Fundamentals,Software Engineer,1,86331,6
+37,"AWS, Python, Docker",2,M.Tech,None,Data Scientist,1,39054,17
+38,"AWS, Python, SQL",7,B.Sc,None,Data Scientist,1,110154,6
+39,"Docker, SQL, Data Analysis",1,B.Tech,PMP,Data Scientist,0,75909,12
+40,"AWS, Java, Data Analysis",2,M.Sc,None,ML Engineer,1,118004,10
+41,"Machine Learning, Java, SQL",5,M.Tech,Google Data Analytics,Software Engineer,1,91582,15
+42,"Data Analysis, Machine Learning, Docker",8,B.Tech,Azure Fundamentals,Data Analyst,1,73479,13
+43,"Java, Machine Learning, AWS",6,M.Tech,None,Software Engineer,0,53022,2
+44,"SQL, Docker, Data Analysis",1,B.Tech,None,Data Scientist,0,43680,10
+45,"AWS, SQL, Docker",2,MBA,PMP,Data Analyst,1,98182,18
+46,"Docker, Python, Java",1,M.Tech,AWS Certified,ML Engineer,0,118938,13
+47,"Docker, Python, Machine Learning",10,B.Tech,PMP,Data Scientist,1,84602,15
+48,"Python, React, AWS",3,M.Tech,None,Software Engineer,1,59360,19
+49,"Docker, Python, Java",1,MBA,PMP,Software Engineer,0,80756,7
+50,"Docker, AWS, Java",9,B.Tech,PMP,Data Analyst,0,102250,0
+51,"Docker, React, SQL",2,B.Sc,Google Data Analytics,Data Analyst,1,85508,8
+52,"Data Analysis, Java, AWS",6,M.Tech,Google Data Analytics,Data Analyst,1,41398,10
+53,"React, Machine Learning, Python",2,B.Tech,None,Data Scientist,1,101964,13
+54,"React, SQL, AWS",8,M.Sc,None,ML Engineer,1,72625,4
+55,"Data Analysis, Docker, AWS",10,B.Tech,PMP,Data Scientist,1,35017,19
+56,"Docker, Python, Machine Learning",0,M.Sc,PMP,ML Engineer,0,39288,20
+57,"Data Analysis, Docker, Java",6,M.Tech,Google Data Analytics,Data Scientist,1,32988,13
+58,"SQL, Java, Data Analysis",10,M.Tech,PMP,Data Scientist,1,32357,17
+59,"Data Analysis, Python, Java",1,B.Tech,Google Data Analytics,Data Analyst,0,93628,19
+60,"SQL, Docker, React",7,B.Tech,PMP,Software Engineer,1,93582,12
+61,"Docker, SQL, Python",9,B.Sc,Azure Fundamentals,ML Engineer,1,32987,17
+62,"React, Machine Learning, Data Analysis",8,M.Sc,Azure Fundamentals,Data Scientist,1,77158,3
+63,"Machine Learning, Python, Data Analysis",1,M.Sc,None,Data Analyst,0,92370,5
+64,"Machine Learning, Docker, Python",8,M.Sc,Google Data Analytics,Data Analyst,1,44038,18
+65,"Data Analysis, Java, SQL",8,M.Sc,None,ML Engineer,1,31877,6
+66,"Java, AWS, Python",1,B.Sc,Google Data Analytics,ML Engineer,0,71775,19
+67,"Docker, SQL, React",1,M.Tech,PMP,Data Scientist,0,77262,4
+68,"AWS, Data Analysis, Machine Learning",4,MBA,AWS Certified,Software Engineer,0,55580,2
+69,"Docker, AWS, Machine Learning",4,B.Tech,PMP,Data Analyst,1,106230,13
+70,"Python, React, Data Analysis",4,B.Sc,PMP,Data Analyst,1,79901,15
+71,"Java, Machine Learning, SQL",8,M.Sc,Azure Fundamentals,Software Engineer,0,46564,1
+72,"Python, SQL, Java",1,B.Tech,AWS Certified,ML Engineer,0,76573,19
+73,"Machine Learning, React, Data Analysis",2,M.Sc,None,Data Analyst,1,50827,15
+74,"Java, Machine Learning, Docker",6,MBA,AWS Certified,Data Scientist,1,103960,20
+75,"Data Analysis, React, Machine Learning",5,M.Tech,None,Software Engineer,1,38810,18
+76,"SQL, Docker, Python",4,MBA,PMP,Software Engineer,1,73552,13
+77,"Java, Docker, Data Analysis",7,M.Tech,None,ML Engineer,1,118982,12
+78,"Python, Docker, SQL",6,M.Tech,None,ML Engineer,1,111655,10
+79,"Docker, AWS, Data Analysis",4,B.Sc,Azure Fundamentals,Data Analyst,1,47472,14
+80,"Java, Docker, Machine Learning",3,M.Tech,PMP,Data Scientist,1,30018,17
+81,"AWS, Data Analysis, Java",5,B.Tech,Google Data Analytics,Data Analyst,1,63638,16
+82,"AWS, Docker, Java",4,M.Sc,Google Data Analytics,ML Engineer,1,109328,6
+83,"Python, Data Analysis, Docker",7,B.Tech,Google Data Analytics,ML Engineer,1,66866,8
+84,"Java, React, Python",5,M.Sc,Azure Fundamentals,Data Scientist,1,44734,4
+85,"Python, Data Analysis, SQL",1,M.Sc,PMP,ML Engineer,0,41856,8
+86,"React, Python, Java",10,B.Tech,Google Data Analytics,Software Engineer,1,74835,20
+87,"Python, AWS, Docker",8,MBA,Google Data Analytics,ML Engineer,1,106092,15
+88,"Data Analysis, SQL, AWS",8,B.Tech,None,Data Analyst,1,62531,13
+89,"Data Analysis, React, SQL",7,B.Tech,PMP,Data Analyst,1,41278,15
+90,"React, Java, Data Analysis",6,M.Tech,AWS Certified,Data Analyst,1,105703,18
+91,"Docker, React, SQL",1,B.Sc,AWS Certified,Software Engineer,0,84067,20
+92,"Docker, Python, React",1,B.Tech,Azure Fundamentals,ML Engineer,0,98077,15
+93,"Java, Python, SQL",2,MBA,Google Data Analytics,ML Engineer,1,87702,9
+94,"Docker, React, Machine Learning",8,B.Tech,Google Data Analytics,Software Engineer,1,81638,20
+95,"Machine Learning, React, Docker",4,B.Sc,PMP,Data Scientist,1,98434,4
+96,"React, Docker, Python",6,M.Sc,Google Data Analytics,Data Analyst,1,40516,11
+97,"AWS, Data Analysis, React",5,M.Tech,PMP,ML Engineer,1,45888,6
+98,"SQL, AWS, Machine Learning",1,B.Sc,PMP,Software Engineer,0,30898,6
+99,"AWS, Docker, Machine Learning",4,M.Sc,Google Data Analytics,Software Engineer,1,31770,16
+100,"Data Analysis, SQL, Java",0,M.Sc,Azure Fundamentals,Software Engineer,0,111793,9
+101,"AWS, SQL, Python",8,MBA,Google Data Analytics,Software Engineer,1,39050,8
+102,"SQL, Python, Machine Learning",8,M.Sc,Google Data Analytics,Software Engineer,1,105916,20
+103,"SQL, AWS, Python",3,M.Sc,Azure Fundamentals,Software Engineer,1,86945,18
+104,"Java, Python, Data Analysis",8,B.Sc,Azure Fundamentals,Data Analyst,1,44051,17
+105,"Docker, React, Machine Learning",10,B.Tech,None,Data Analyst,1,32155,10
+106,"Java, Machine Learning, AWS",1,B.Tech,Azure Fundamentals,Data Scientist,0,73864,12
+107,"Docker, Machine Learning, AWS",5,M.Sc,PMP,Software Engineer,1,79698,18
+108,"AWS, Docker, Machine Learning",4,B.Tech,PMP,Software Engineer,1,79330,8
+109,"Java, Python, React",8,M.Tech,PMP,Software Engineer,1,46835,17
+110,"React, Data Analysis, Machine Learning",2,MBA,None,Data Analyst,1,51116,17
+111,"Python, React, Docker",7,B.Tech,PMP,Data Analyst,1,98586,20
+112,"AWS, Docker, SQL",8,M.Sc,AWS Certified,ML Engineer,1,118694,10
+113,"Machine Learning, Java, Docker",8,B.Tech,None,Data Scientist,1,93048,12
+114,"Docker, SQL, Python",1,M.Sc,Azure Fundamentals,Software Engineer,0,52237,1
+115,"AWS, React, Machine Learning",2,M.Tech,Google Data Analytics,Data Scientist,1,43607,9
+116,"Docker, Machine Learning, Python",9,M.Sc,None,Software Engineer,1,60706,9
+117,"Java, SQL, Docker",3,M.Tech,Azure Fundamentals,Software Engineer,1,119695,17
+118,"Data Analysis, AWS, SQL",0,B.Tech,AWS Certified,Software Engineer,0,51969,10
+119,"SQL, Java, AWS",1,M.Sc,PMP,ML Engineer,0,66238,20
+120,"SQL, Machine Learning, Python",3,M.Tech,None,Software Engineer,1,69182,20
+121,"React, Machine Learning, Java",0,B.Sc,None,Software Engineer,0,97889,0
+122,"React, Java, SQL",10,M.Sc,AWS Certified,Software Engineer,1,69328,20
+123,"Data Analysis, Machine Learning, Java",7,M.Tech,AWS Certified,Data Analyst,1,81047,20
+124,"Data Analysis, Java, Machine Learning",0,M.Tech,Azure Fundamentals,Data Scientist,0,32394,10
+125,"Docker, Machine Learning, SQL",9,MBA,None,Data Scientist,1,118313,3
+126,"Data Analysis, Java, Docker",5,M.Sc,PMP,Data Scientist,1,104963,5
+127,"Docker, Machine Learning, React",10,MBA,None,Software Engineer,1,94645,8
+128,"Java, Docker, Data Analysis",0,B.Sc,Google Data Analytics,Data Scientist,0,110280,18
+129,"Python, AWS, React",5,M.Tech,Google Data Analytics,Software Engineer,0,83037,2
+130,"Machine Learning, Data Analysis, Docker",10,B.Sc,Google Data Analytics,Data Scientist,1,114743,19
+131,"SQL, Machine Learning, Python",5,M.Tech,Google Data Analytics,ML Engineer,1,74263,6
+132,"SQL, React, Machine Learning",8,M.Tech,Google Data Analytics,Software Engineer,1,74105,19
+133,"AWS, Python, SQL",9,MBA,PMP,Data Analyst,1,42650,15
+134,"Data Analysis, AWS, Docker",6,M.Sc,Azure Fundamentals,Data Scientist,1,76665,16
+135,"Machine Learning, Python, AWS",0,B.Sc,AWS Certified,Data Analyst,0,53378,1
+136,"AWS, SQL, Java",8,B.Sc,Azure Fundamentals,Data Analyst,0,84692,0
+137,"AWS, React, Docker",8,B.Tech,Azure Fundamentals,Data Analyst,1,35117,3
+138,"Java, SQL, Docker",1,B.Tech,Google Data Analytics,Data Scientist,0,84821,10
+139,"Java, Data Analysis, SQL",2,B.Tech,Google Data Analytics,Software Engineer,1,51824,14
+140,"AWS, React, Python",3,M.Sc,Google Data Analytics,Data Scientist,1,30213,14
+141,"Java, Python, Docker",1,B.Sc,Azure Fundamentals,Data Scientist,0,115579,2
+142,"Docker, AWS, Machine Learning",4,M.Tech,None,Data Analyst,1,67221,8
+143,"Docker, Data Analysis, Machine Learning",5,B.Sc,AWS Certified,Data Scientist,1,81835,4
+144,"React, Docker, Machine Learning",1,M.Sc,Google Data Analytics,ML Engineer,0,34997,6
+145,"Machine Learning, Java, Docker",3,M.Tech,Google Data Analytics,ML Engineer,1,94782,6
+146,"React, Docker, Machine Learning",5,M.Tech,None,Data Analyst,1,106392,3
+147,"React, SQL, AWS",7,B.Sc,AWS Certified,Data Scientist,1,44859,8
+148,"Docker, Java, Python",6,M.Sc,Google Data Analytics,ML Engineer,1,70167,7
+149,"AWS, SQL, Machine Learning",2,B.Tech,None,Software Engineer,1,77106,7
+150,"Python, SQL, Java",0,B.Sc,Google Data Analytics,Software Engineer,0,115505,15
+151,"Data Analysis, AWS, SQL",8,M.Sc,AWS Certified,Software Engineer,1,35717,6
+152,"React, Java, Machine Learning",1,B.Tech,None,Data Scientist,0,53182,7
+153,"AWS, Java, React",2,B.Sc,None,Data Analyst,0,119901,2
+154,"Data Analysis, React, Python",10,B.Tech,None,ML Engineer,1,36472,6
+155,"AWS, SQL, Data Analysis",8,M.Tech,None,Software Engineer,1,36407,14
+156,"Machine Learning, Docker, Python",1,M.Tech,None,Data Analyst,0,85596,20
+157,"Java, Python, React",9,B.Sc,None,ML Engineer,1,30043,13
+158,"SQL, React, Machine Learning",3,B.Sc,None,Data Analyst,0,113012,0
+159,"React, Data Analysis, Java",6,B.Tech,None,Data Scientist,1,117045,20
+160,"Machine Learning, Docker, Data Analysis",9,MBA,Azure Fundamentals,Software Engineer,1,105145,3
+161,"React, AWS, Docker",2,B.Tech,Google Data Analytics,Software Engineer,1,50943,13
+162,"Data Analysis, React, AWS",8,M.Tech,Azure Fundamentals,Data Scientist,1,97378,4
+163,"Data Analysis, Python, SQL",8,B.Tech,AWS Certified,Data Analyst,0,89866,2
+164,"Java, AWS, Docker",5,M.Tech,AWS Certified,Data Analyst,1,102678,16
+165,"Python, Data Analysis, Java",9,M.Tech,Azure Fundamentals,Software Engineer,0,46744,0
+166,"AWS, Data Analysis, Python",3,B.Sc,PMP,Data Analyst,1,115808,11
+167,"Java, AWS, Docker",2,B.Sc,AWS Certified,Data Analyst,1,38835,10
+168,"Docker, Python, SQL",8,MBA,Azure Fundamentals,Data Analyst,1,72586,19
+169,"Data Analysis, Machine Learning, Java",7,B.Tech,Azure Fundamentals,Software Engineer,1,42194,6
+170,"React, AWS, Docker",4,B.Sc,None,ML Engineer,1,35531,5
+171,"React, Python, Java",8,B.Sc,Google Data Analytics,Software Engineer,1,78872,20
+172,"Java, AWS, Python",6,MBA,Azure Fundamentals,ML Engineer,1,113289,18
+173,"Docker, AWS, React",8,MBA,AWS Certified,Data Scientist,1,111251,13
+174,"React, Python, Docker",2,B.Tech,Azure Fundamentals,ML Engineer,1,101490,16
+175,"SQL, Data Analysis, Docker",6,M.Tech,None,Software Engineer,1,116576,20
+176,"Data Analysis, Java, Machine Learning",8,MBA,Google Data Analytics,ML Engineer,1,81044,9
+177,"Machine Learning, Data Analysis, Java",2,B.Sc,AWS Certified,ML Engineer,1,62438,10
+178,"Java, Docker, Python",9,M.Sc,AWS Certified,Data Analyst,1,89339,19
+179,"Docker, Java, React",7,B.Tech,AWS Certified,Data Scientist,0,82823,1
+180,"Data Analysis, AWS, Java",1,MBA,Google Data Analytics,Software Engineer,0,95368,2
+181,"Data Analysis, SQL, Docker",9,M.Tech,AWS Certified,Software Engineer,1,77255,8
+182,"Data Analysis, AWS, React",8,M.Sc,AWS Certified,Software Engineer,1,79991,6
+183,"Java, Machine Learning, Docker",5,B.Sc,None,ML Engineer,1,60826,6
+184,"Docker, Machine Learning, Java",9,MBA,AWS Certified,Software Engineer,1,62642,16
+185,"AWS, Java, Data Analysis",5,B.Sc,Azure Fundamentals,Data Analyst,1,57185,20
+186,"Python, AWS, React",10,MBA,None,Data Analyst,1,55810,12
+187,"Data Analysis, Machine Learning, Docker",10,M.Tech,None,Data Scientist,1,66124,18
+188,"Docker, Data Analysis, Machine Learning",4,M.Sc,PMP,Data Scientist,1,66262,14
+189,"SQL, React, Java",1,MBA,PMP,ML Engineer,0,68725,6
+190,"Data Analysis, Machine Learning, React",5,M.Tech,Google Data Analytics,Data Scientist,0,35847,1
+191,"SQL, AWS, Python",5,M.Sc,PMP,Data Scientist,1,69612,3
+192,"Java, Python, Data Analysis",5,M.Sc,Azure Fundamentals,ML Engineer,1,110845,7
+193,"SQL, Java, AWS",8,B.Tech,Google Data Analytics,Data Analyst,1,35544,14
+194,"Java, Python, Data Analysis",5,M.Tech,Google Data Analytics,Data Scientist,1,64499,6
+195,"Data Analysis, Machine Learning, Docker",0,B.Sc,None,Software Engineer,0,67157,5
+196,"Machine Learning, Java, Docker",0,B.Tech,AWS Certified,Software Engineer,0,65947,16
+197,"React, SQL, Docker",0,B.Sc,AWS Certified,Software Engineer,0,97104,6
+198,"AWS, React, Docker",9,B.Tech,Azure Fundamentals,Data Analyst,1,119037,9
+199,"Machine Learning, Java, Python",3,B.Sc,Azure Fundamentals,Software Engineer,1,108850,10
+200,"Machine Learning, SQL, Python",5,M.Sc,AWS Certified,ML Engineer,1,72353,12
+201,"Python, Machine Learning, React",2,B.Sc,Azure Fundamentals,ML Engineer,1,52296,9
+202,"Python, Data Analysis, Docker",3,M.Sc,Google Data Analytics,Data Analyst,1,37912,6
+203,"Docker, Data Analysis, Java",0,B.Tech,None,Data Analyst,0,36280,4
+204,"Docker, Machine Learning, Java",0,M.Sc,PMP,ML Engineer,0,59960,16
+205,"React, SQL, Python",3,M.Tech,Azure Fundamentals,Data Scientist,1,103361,12
+206,"Data Analysis, Machine Learning, Java",3,B.Tech,Azure Fundamentals,ML Engineer,1,30405,14
+207,"SQL, React, Machine Learning",8,B.Sc,AWS Certified,ML Engineer,1,99064,7
+208,"React, Python, AWS",8,M.Tech,Azure Fundamentals,Data Scientist,0,96869,0
+209,"React, Machine Learning, Docker",10,M.Tech,PMP,Software Engineer,1,118788,18
+210,"AWS, Machine Learning, React",8,MBA,AWS Certified,ML Engineer,1,82751,18
+211,"SQL, Machine Learning, Docker",2,B.Tech,AWS Certified,Data Analyst,1,78194,16
+212,"Docker, Machine Learning, Data Analysis",1,MBA,Google Data Analytics,ML Engineer,0,118670,9
+213,"Data Analysis, AWS, SQL",8,M.Tech,None,Data Analyst,1,70241,8
+214,"React, Docker, AWS",7,M.Sc,AWS Certified,Data Analyst,1,49620,4
+215,"Python, Docker, AWS",1,B.Sc,Google Data Analytics,Data Analyst,0,57230,6
+216,"React, Docker, Java",0,MBA,AWS Certified,Data Analyst,0,113745,4
+217,"SQL, React, Machine Learning",5,M.Tech,Azure Fundamentals,ML Engineer,1,32670,7
+218,"Docker, AWS, Python",9,B.Sc,AWS Certified,Data Scientist,1,75576,4
+219,"React, AWS, Java",0,B.Sc,Google Data Analytics,ML Engineer,0,47887,16
+220,"Docker, Data Analysis, React",8,B.Sc,None,Data Analyst,1,93259,20
+221,"Machine Learning, Java, React",0,M.Tech,AWS Certified,Software Engineer,0,78736,3
+222,"Docker, Python, React",1,M.Sc,Azure Fundamentals,Software Engineer,0,108558,5
+223,"Machine Learning, React, Docker",7,B.Tech,AWS Certified,Software Engineer,1,47012,13
+224,"Docker, Java, AWS",5,M.Sc,AWS Certified,Software Engineer,1,117600,13
+225,"React, AWS, Docker",1,M.Tech,PMP,Data Scientist,0,48633,6
+226,"Java, AWS, SQL",10,M.Sc,Google Data Analytics,Software Engineer,1,102048,12
+227,"Python, SQL, AWS",3,MBA,None,Data Analyst,1,69140,20
+228,"Data Analysis, Python, SQL",1,B.Sc,Azure Fundamentals,Data Scientist,0,115555,13
+229,"Docker, SQL, Java",9,M.Sc,AWS Certified,Software Engineer,1,54177,13
+230,"Data Analysis, AWS, Python",0,M.Tech,None,Data Analyst,0,119153,10
+231,"React, SQL, Machine Learning",5,M.Sc,None,Software Engineer,1,87183,15
+232,"SQL, React, Java",6,B.Sc,AWS Certified,Data Analyst,1,101193,12
+233,"React, Data Analysis, AWS",4,B.Sc,Google Data Analytics,Data Scientist,1,99567,13
+234,"Data Analysis, AWS, Machine Learning",10,M.Tech,AWS Certified,ML Engineer,1,102534,5
+235,"Data Analysis, AWS, React",5,B.Tech,Azure Fundamentals,Data Analyst,0,42245,0
+236,"Machine Learning, Python, Java",4,M.Sc,None,ML Engineer,1,97011,11
+237,"Python, Data Analysis, Java",5,B.Sc,AWS Certified,Data Analyst,1,99174,11
+238,"Data Analysis, React, SQL",6,B.Sc,AWS Certified,Data Scientist,1,35292,8
+239,"Python, AWS, Docker",5,M.Tech,AWS Certified,Data Analyst,0,112078,2
+240,"Python, React, AWS",0,B.Tech,None,ML Engineer,0,46146,4
+241,"SQL, Machine Learning, Java",9,B.Sc,AWS Certified,ML Engineer,1,98254,8
+242,"SQL, Data Analysis, Docker",7,B.Sc,None,Data Analyst,1,119735,9
+243,"Docker, Python, React",2,M.Tech,None,Software Engineer,1,31282,10
+244,"Docker, Python, React",3,M.Sc,None,Software Engineer,1,111858,7
+245,"AWS, Data Analysis, SQL",7,M.Sc,Azure Fundamentals,ML Engineer,1,42728,18
+246,"Data Analysis, React, Docker",2,B.Tech,Azure Fundamentals,Software Engineer,0,68538,0
+247,"SQL, Python, AWS",1,MBA,Azure Fundamentals,Software Engineer,0,47927,10
+248,"Docker, AWS, Java",10,M.Tech,AWS Certified,Software Engineer,0,48943,2
+249,"AWS, Machine Learning, SQL",7,M.Tech,Azure Fundamentals,ML Engineer,1,67886,3
+250,"Java, SQL, Data Analysis",9,B.Sc,PMP,Software Engineer,1,110034,4
+251,"Docker, Data Analysis, Java",3,M.Tech,None,Data Analyst,0,43595,0
+252,"React, Data Analysis, Python",10,MBA,Google Data Analytics,Data Analyst,0,99811,0
+253,"SQL, Docker, Java",10,M.Tech,Google Data Analytics,Software Engineer,1,89064,9
+254,"Python, SQL, Machine Learning",2,M.Sc,PMP,ML Engineer,1,92530,5
+255,"Python, SQL, Data Analysis",0,B.Tech,Azure Fundamentals,ML Engineer,0,42298,17
+256,"AWS, Docker, SQL",6,B.Sc,Azure Fundamentals,Data Scientist,1,94826,16
+257,"Python, React, SQL",5,B.Tech,None,Data Scientist,1,96013,10
+258,"AWS, Machine Learning, SQL",0,M.Sc,Google Data Analytics,Data Scientist,0,66217,10
+259,"AWS, Data Analysis, Machine Learning",4,MBA,None,ML Engineer,1,104187,6
+260,"Docker, AWS, Java",10,B.Tech,Google Data Analytics,Data Scientist,1,115659,3
+261,"AWS, SQL, Python",3,B.Sc,AWS Certified,Data Scientist,1,36781,16
+262,"Python, SQL, AWS",1,M.Tech,AWS Certified,Data Analyst,0,104221,19
+263,"Python, Machine Learning, Java",8,M.Tech,PMP,Software Engineer,1,65950,12
+264,"AWS, React, Data Analysis",9,B.Sc,Azure Fundamentals,Data Scientist,1,36348,4
+265,"Java, Python, Machine Learning",0,M.Tech,Google Data Analytics,Data Analyst,0,52783,6
+266,"Machine Learning, Python, Data Analysis",1,B.Sc,None,Data Analyst,0,53283,10
+267,"Java, SQL, Python",4,B.Sc,PMP,Software Engineer,1,62285,15
+268,"Docker, Data Analysis, AWS",4,M.Tech,PMP,Software Engineer,1,88016,10
+269,"Data Analysis, Docker, Java",3,MBA,AWS Certified,ML Engineer,1,95028,5
+270,"AWS, Python, Java",5,MBA,None,Data Scientist,1,90890,18
+271,"SQL, AWS, Machine Learning",1,M.Sc,None,Data Scientist,0,33612,5
+272,"SQL, React, Python",3,MBA,None,ML Engineer,1,109908,11
+273,"Python, SQL, Java",9,M.Tech,None,ML Engineer,1,76039,14
+274,"AWS, React, Python",0,B.Tech,PMP,Software Engineer,0,77653,1
+275,"Docker, Data Analysis, Python",2,MBA,None,Data Analyst,1,74621,3
+276,"Machine Learning, AWS, Java",2,MBA,AWS Certified,ML Engineer,1,107016,19
+277,"React, Python, Docker",4,M.Sc,AWS Certified,ML Engineer,1,89941,19
+278,"AWS, Java, Data Analysis",10,M.Tech,PMP,Data Scientist,1,95139,16
+279,"Machine Learning, Docker, SQL",4,M.Tech,AWS Certified,ML Engineer,1,39821,5
+280,"Machine Learning, Docker, AWS",0,MBA,PMP,ML Engineer,0,59175,20
+281,"Machine Learning, Java, AWS",10,B.Tech,Azure Fundamentals,Software Engineer,1,92306,7
+282,"Machine Learning, React, Docker",7,B.Sc,Google Data Analytics,Data Scientist,1,83004,4
+283,"React, SQL, Data Analysis",6,M.Tech,Google Data Analytics,Data Analyst,1,60340,15
+284,"Data Analysis, AWS, SQL",5,B.Tech,Google Data Analytics,Data Analyst,1,68934,6
+285,"Data Analysis, Docker, React",9,M.Tech,Google Data Analytics,Software Engineer,1,65913,19
+286,"SQL, Java, Data Analysis",10,MBA,Azure Fundamentals,Data Analyst,1,74088,20
+287,"Java, React, AWS",4,MBA,None,ML Engineer,1,115564,4
+288,"Machine Learning, Python, SQL",2,M.Sc,None,Software Engineer,1,98634,15
+289,"Java, React, Docker",0,B.Tech,AWS Certified,ML Engineer,0,92587,20
+290,"SQL, Machine Learning, Data Analysis",7,B.Tech,Azure Fundamentals,ML Engineer,0,108271,1
+291,"React, Data Analysis, AWS",4,MBA,Azure Fundamentals,ML Engineer,1,117935,18
+292,"Machine Learning, Data Analysis, Python",5,B.Sc,Azure Fundamentals,Data Analyst,1,70918,19
+293,"Data Analysis, AWS, Java",9,MBA,None,Data Scientist,1,57426,9
+294,"Machine Learning, React, Python",7,B.Tech,Google Data Analytics,Software Engineer,0,48015,2
+295,"SQL, Java, Data Analysis",9,M.Tech,None,Software Engineer,1,82715,19
+296,"AWS, Docker, Data Analysis",1,M.Sc,AWS Certified,ML Engineer,0,90217,14
+297,"SQL, Data Analysis, Python",6,B.Tech,Google Data Analytics,Software Engineer,1,75146,3
+298,"Java, Docker, Data Analysis",9,B.Sc,AWS Certified,Data Analyst,1,75601,4
+299,"React, AWS, Machine Learning",0,M.Tech,Google Data Analytics,ML Engineer,0,54556,8
+300,"Data Analysis, Docker, SQL",8,MBA,AWS Certified,Software Engineer,1,67665,16
+301,"Docker, Machine Learning, SQL",10,M.Tech,Google Data Analytics,Data Scientist,0,52440,0
+302,"AWS, Java, Docker",1,MBA,Azure Fundamentals,Data Scientist,0,97115,5
+303,"Java, Data Analysis, React",2,B.Sc,Google Data Analytics,Software Engineer,1,68550,7
+304,"Java, AWS, Python",4,M.Tech,AWS Certified,ML Engineer,1,34121,12
+305,"React, Python, Data Analysis",9,M.Sc,AWS Certified,Software Engineer,1,111978,17
+306,"Docker, Python, Data Analysis",6,M.Tech,Azure Fundamentals,ML Engineer,1,108622,4
+307,"AWS, Java, Machine Learning",6,B.Sc,Google Data Analytics,Data Scientist,1,103329,6
+308,"Machine Learning, Docker, Python",6,M.Tech,PMP,Data Analyst,1,62335,10
+309,"Docker, Java, React",7,M.Tech,PMP,Data Analyst,1,100065,17
+310,"Data Analysis, SQL, React",8,M.Sc,PMP,Data Analyst,1,110071,20
+311,"SQL, Data Analysis, Machine Learning",1,M.Sc,Azure Fundamentals,Data Analyst,0,41339,15
+312,"Machine Learning, AWS, Data Analysis",7,MBA,AWS Certified,Data Scientist,1,30909,15
+313,"Python, Docker, Data Analysis",5,B.Sc,Azure Fundamentals,Software Engineer,1,88379,20
+314,"Python, Docker, Data Analysis",4,M.Sc,PMP,ML Engineer,0,43032,2
+315,"AWS, Data Analysis, React",10,B.Tech,PMP,Data Scientist,1,54386,7
+316,"Data Analysis, React, Java",8,M.Sc,Google Data Analytics,Software Engineer,1,119110,9
+317,"Docker, Python, SQL",3,B.Sc,None,Software Engineer,1,65339,4
+318,"AWS, Docker, Machine Learning",3,B.Sc,PMP,Data Analyst,1,52323,18
+319,"React, Docker, SQL",2,MBA,Azure Fundamentals,Data Analyst,1,38416,13
+320,"Machine Learning, Python, Docker",10,M.Tech,Azure Fundamentals,ML Engineer,1,71986,3
+321,"Python, AWS, Machine Learning",3,MBA,AWS Certified,ML Engineer,1,87786,14
+322,"Data Analysis, Java, React",6,B.Sc,Google Data Analytics,Software Engineer,0,98625,1
+323,"SQL, Docker, Python",10,B.Sc,None,Data Scientist,1,50292,18
+324,"Java, Machine Learning, Python",6,MBA,Google Data Analytics,Software Engineer,0,88380,0
+325,"Python, Docker, SQL",8,MBA,PMP,Software Engineer,1,77147,9
+326,"Machine Learning, Data Analysis, Docker",9,M.Sc,PMP,Data Scientist,1,61783,18
+327,"Docker, Machine Learning, Data Analysis",7,B.Sc,Google Data Analytics,ML Engineer,1,51973,20
+328,"React, Java, Data Analysis",3,M.Sc,Google Data Analytics,Data Scientist,1,36638,7
+329,"Java, SQL, Python",0,M.Sc,Azure Fundamentals,Data Scientist,0,116500,15
+330,"AWS, React, Docker",10,B.Sc,AWS Certified,Software Engineer,1,90176,11
+331,"Docker, Machine Learning, AWS",10,MBA,AWS Certified,Software Engineer,1,96157,3
+332,"AWS, Machine Learning, SQL",3,M.Sc,None,Data Scientist,1,90096,4
+333,"Data Analysis, Docker, Machine Learning",0,B.Sc,Azure Fundamentals,Data Analyst,0,43756,1
+334,"Java, AWS, React",6,M.Sc,PMP,ML Engineer,1,52700,19
+335,"Python, Data Analysis, React",10,M.Sc,None,Software Engineer,1,78930,14
+336,"Machine Learning, Data Analysis, SQL",9,MBA,Azure Fundamentals,Data Analyst,1,80005,15
+337,"React, SQL, Data Analysis",3,B.Sc,None,Software Engineer,1,114141,20
+338,"Data Analysis, AWS, Machine Learning",4,MBA,AWS Certified,Data Scientist,1,116336,18
+339,"AWS, Docker, React",9,M.Tech,PMP,Data Analyst,1,41626,17
+340,"Java, Python, AWS",2,MBA,AWS Certified,ML Engineer,1,117919,15
+341,"Machine Learning, Docker, Python",7,M.Sc,None,Data Analyst,1,87583,4
+342,"Data Analysis, Machine Learning, React",10,MBA,None,Software Engineer,1,77855,16
+343,"Machine Learning, Docker, AWS",6,B.Tech,Google Data Analytics,Software Engineer,1,59908,16
+344,"Docker, AWS, SQL",9,MBA,PMP,Data Scientist,1,40465,20
+345,"Java, Python, React",8,B.Tech,None,Data Scientist,1,53961,18
+346,"Python, Data Analysis, Machine Learning",7,MBA,Azure Fundamentals,ML Engineer,0,112266,1
+347,"Machine Learning, Java, AWS",0,M.Sc,None,Data Scientist,0,92507,15
+348,"React, Python, SQL",7,B.Tech,None,Data Analyst,1,32760,8
+349,"Machine Learning, SQL, Data Analysis",6,MBA,Google Data Analytics,ML Engineer,0,87061,1
+350,"SQL, Machine Learning, Python",3,B.Tech,AWS Certified,Software Engineer,1,47281,5
+351,"Python, Machine Learning, Docker",7,MBA,Azure Fundamentals,Data Scientist,1,103844,19
+352,"Java, Python, React",0,MBA,AWS Certified,Data Analyst,0,80821,2
+353,"Java, Data Analysis, Docker",0,B.Tech,None,ML Engineer,0,101034,18
+354,"SQL, Java, Docker",5,MBA,Google Data Analytics,Software Engineer,1,64169,13
+355,"React, SQL, Data Analysis",0,B.Sc,None,Data Analyst,0,33240,18
+356,"Machine Learning, Java, SQL",5,B.Sc,Azure Fundamentals,ML Engineer,1,77801,8
+357,"Machine Learning, Java, React",2,M.Sc,PMP,ML Engineer,1,96955,6
+358,"React, Java, Data Analysis",2,M.Tech,Azure Fundamentals,Software Engineer,0,83957,2
+359,"Docker, SQL, Python",8,B.Sc,None,Software Engineer,1,101424,3
+360,"React, Machine Learning, AWS",6,M.Sc,Azure Fundamentals,Software Engineer,1,31856,10
+361,"React, AWS, Machine Learning",2,M.Sc,PMP,ML Engineer,1,101487,15
+362,"AWS, SQL, Java",5,MBA,PMP,Software Engineer,1,72973,13
+363,"Python, AWS, Machine Learning",4,B.Tech,Google Data Analytics,Data Analyst,1,38159,6
+364,"Data Analysis, Java, Python",5,B.Tech,AWS Certified,ML Engineer,1,89388,4
+365,"Data Analysis, Java, Python",0,MBA,AWS Certified,Data Analyst,0,39183,4
+366,"React, Docker, SQL",9,M.Sc,None,Data Analyst,1,110887,8
+367,"Docker, Python, SQL",3,MBA,Google Data Analytics,Data Scientist,1,113583,19
+368,"Java, SQL, Data Analysis",4,B.Tech,PMP,Data Scientist,1,91791,15
+369,"SQL, Data Analysis, AWS",5,B.Sc,None,ML Engineer,1,59414,16
+370,"SQL, AWS, Machine Learning",10,B.Tech,Google Data Analytics,ML Engineer,1,71385,9
+371,"Docker, React, Machine Learning",9,B.Sc,Azure Fundamentals,Data Analyst,1,68663,7
+372,"Data Analysis, Docker, Java",7,MBA,Azure Fundamentals,Data Analyst,1,112810,20
+373,"Docker, AWS, SQL",2,MBA,AWS Certified,Data Analyst,1,73176,20
+374,"Java, React, AWS",8,M.Tech,None,ML Engineer,1,113440,16
+375,"Python, AWS, SQL",4,B.Tech,Azure Fundamentals,Software Engineer,0,77433,0
+376,"React, Data Analysis, Docker",4,M.Tech,None,Data Analyst,1,36102,19
+377,"Java, React, Python",0,MBA,Google Data Analytics,Data Analyst,0,62114,3
+378,"AWS, Docker, React",5,MBA,Azure Fundamentals,Data Analyst,1,45267,16
+379,"Java, SQL, Data Analysis",4,M.Tech,Azure Fundamentals,Data Scientist,1,79773,20
+380,"Machine Learning, AWS, React",4,M.Tech,AWS Certified,Data Analyst,1,58947,13
+381,"SQL, Java, AWS",1,M.Sc,PMP,Data Scientist,0,48626,17
+382,"Python, Data Analysis, React",8,B.Tech,Google Data Analytics,ML Engineer,1,113832,6
+383,"Data Analysis, SQL, React",8,MBA,AWS Certified,ML Engineer,1,95253,14
+384,"Java, Machine Learning, AWS",9,M.Sc,PMP,ML Engineer,1,111363,6
+385,"AWS, Machine Learning, Data Analysis",7,MBA,Azure Fundamentals,Data Scientist,1,119286,20
+386,"AWS, Data Analysis, Python",0,B.Sc,AWS Certified,ML Engineer,0,102988,8
+387,"React, Docker, AWS",9,M.Tech,Google Data Analytics,ML Engineer,0,37174,1
+388,"Python, Data Analysis, Machine Learning",0,MBA,PMP,Data Scientist,0,97123,7
+389,"SQL, Java, Data Analysis",0,MBA,Google Data Analytics,Software Engineer,0,70752,13
+390,"React, AWS, Java",6,M.Sc,None,Data Analyst,1,101899,14
+391,"React, Data Analysis, Docker",0,M.Tech,AWS Certified,ML Engineer,0,85785,7
+392,"Python, SQL, AWS",4,M.Sc,Azure Fundamentals,Software Engineer,1,35370,4
+393,"Python, React, Docker",2,M.Tech,AWS Certified,ML Engineer,0,71058,0
+394,"Python, Data Analysis, React",10,M.Sc,None,Data Scientist,1,37808,19
+395,"AWS, Java, Machine Learning",3,M.Sc,PMP,Data Analyst,0,92540,0
+396,"Python, AWS, React",8,MBA,Google Data Analytics,ML Engineer,1,82457,3
+397,"Docker, SQL, React",7,B.Sc,AWS Certified,Data Analyst,1,111760,7
+398,"React, SQL, Python",3,MBA,AWS Certified,ML Engineer,1,50142,20
+399,"SQL, Docker, AWS",1,M.Tech,Google Data Analytics,Software Engineer,0,94165,16
+400,"React, Java, Python",7,B.Sc,Google Data Analytics,Software Engineer,0,68995,2
+401,"SQL, Docker, AWS",5,MBA,PMP,Data Scientist,0,101582,2
+402,"Python, React, Docker",5,M.Sc,AWS Certified,ML Engineer,1,48563,13
+403,"React, AWS, Java",3,M.Sc,Azure Fundamentals,ML Engineer,1,41929,7
+404,"Data Analysis, Python, Java",7,M.Tech,AWS Certified,Data Scientist,1,49159,13
+405,"Python, Machine Learning, Docker",0,B.Sc,Azure Fundamentals,ML Engineer,0,100043,16
+406,"SQL, React, Machine Learning",6,B.Tech,AWS Certified,Software Engineer,0,66433,0
+407,"Data Analysis, Java, React",2,M.Sc,PMP,ML Engineer,0,99036,2
+408,"SQL, AWS, Docker",4,B.Sc,PMP,Data Scientist,0,118970,2
+409,"Docker, React, Data Analysis",5,M.Tech,PMP,Software Engineer,1,30194,4
+410,"React, Python, Java",6,M.Tech,PMP,Data Scientist,1,51828,18
+411,"SQL, Data Analysis, Python",8,MBA,AWS Certified,ML Engineer,1,111731,13
+412,"Java, Python, SQL",3,B.Tech,Azure Fundamentals,Software Engineer,0,101580,0
+413,"Data Analysis, Python, Docker",5,B.Tech,AWS Certified,Data Scientist,1,93361,11
+414,"Data Analysis, Java, Machine Learning",6,M.Tech,Azure Fundamentals,Software Engineer,1,49015,5
+415,"Java, Docker, AWS",0,M.Tech,Google Data Analytics,Software Engineer,0,48581,11
+416,"Data Analysis, SQL, React",3,B.Tech,None,Data Scientist,1,93725,7
+417,"Python, Java, Data Analysis",4,MBA,AWS Certified,Software Engineer,1,70948,13
+418,"Machine Learning, Python, React",9,M.Sc,AWS Certified,ML Engineer,1,94071,18
+419,"Docker, Python, SQL",5,MBA,None,ML Engineer,1,117318,14
+420,"Python, React, Java",3,MBA,Azure Fundamentals,Software Engineer,1,68448,13
+421,"React, Docker, Data Analysis",10,M.Tech,Google Data Analytics,ML Engineer,0,62350,0
+422,"SQL, AWS, Machine Learning",0,MBA,AWS Certified,Data Scientist,0,113844,12
+423,"Python, Java, Data Analysis",6,M.Tech,Google Data Analytics,Software Engineer,0,44695,2
+424,"AWS, Python, SQL",2,B.Sc,PMP,Data Analyst,1,44096,18
+425,"Java, Machine Learning, AWS",10,B.Sc,Azure Fundamentals,Software Engineer,1,100396,15
+426,"Machine Learning, Docker, Java",10,M.Tech,PMP,ML Engineer,1,43870,4
+427,"AWS, Machine Learning, Python",2,M.Tech,AWS Certified,Data Scientist,1,116901,12
+428,"Docker, React, AWS",2,B.Tech,Azure Fundamentals,Data Scientist,1,94718,12
+429,"SQL, AWS, Machine Learning",0,MBA,AWS Certified,Software Engineer,0,84457,9
+430,"AWS, Machine Learning, Python",9,M.Sc,PMP,ML Engineer,0,106580,2
+431,"Java, SQL, AWS",10,MBA,None,Data Analyst,1,118276,7
+432,"Java, Data Analysis, Machine Learning",9,B.Sc,PMP,Software Engineer,1,74907,3
+433,"Python, AWS, React",1,MBA,AWS Certified,Data Scientist,0,107989,5
+434,"React, SQL, Docker",4,M.Sc,Azure Fundamentals,Software Engineer,1,33927,16
+435,"Docker, SQL, Data Analysis",9,M.Sc,Google Data Analytics,Data Scientist,1,77527,20
+436,"Java, AWS, React",2,M.Sc,AWS Certified,Software Engineer,1,55618,20
+437,"Python, SQL, Docker",8,B.Tech,None,ML Engineer,1,58857,5
+438,"Python, Java, React",6,B.Tech,Azure Fundamentals,Software Engineer,1,119843,9
+439,"Docker, AWS, Python",8,B.Tech,Google Data Analytics,Data Scientist,1,97906,11
+440,"AWS, Java, Machine Learning",5,B.Sc,Azure Fundamentals,Data Analyst,1,42480,16
+441,"Docker, Machine Learning, Python",6,M.Tech,Azure Fundamentals,Software Engineer,1,85442,11
+442,"Python, SQL, React",3,B.Sc,AWS Certified,Data Analyst,1,113210,16
+443,"SQL, Java, Machine Learning",3,M.Tech,Azure Fundamentals,Software Engineer,1,72786,7
+444,"Java, Machine Learning, Python",4,B.Tech,PMP,Data Scientist,1,110756,19
+445,"Docker, React, Machine Learning",1,B.Tech,None,ML Engineer,0,82503,1
+446,"AWS, Machine Learning, SQL",0,M.Tech,AWS Certified,ML Engineer,0,73300,6
+447,"SQL, Docker, Machine Learning",0,M.Tech,AWS Certified,Software Engineer,0,104096,10
+448,"AWS, Data Analysis, Machine Learning",5,M.Sc,None,Software Engineer,1,89619,19
+449,"Machine Learning, SQL, Docker",8,M.Sc,Google Data Analytics,Data Scientist,1,93210,11
+450,"React, Docker, Java",5,B.Sc,Google Data Analytics,ML Engineer,0,53016,2
+451,"Python, Data Analysis, AWS",9,B.Tech,AWS Certified,ML Engineer,1,72923,3
+452,"React, Docker, AWS",5,B.Sc,Google Data Analytics,Data Scientist,1,49349,10
+453,"SQL, Machine Learning, React",9,B.Tech,AWS Certified,Data Analyst,1,39974,10
+454,"AWS, Machine Learning, React",4,B.Tech,AWS Certified,Data Analyst,0,40746,2
+455,"Java, SQL, Python",3,B.Sc,AWS Certified,ML Engineer,1,49870,18
+456,"Python, Data Analysis, Machine Learning",4,MBA,AWS Certified,Data Scientist,1,50192,9
+457,"Data Analysis, Docker, SQL",3,MBA,Google Data Analytics,Data Analyst,1,89784,14
+458,"React, Python, Data Analysis",4,B.Tech,AWS Certified,Data Scientist,1,86599,17
+459,"Java, Data Analysis, Docker",0,B.Sc,None,Data Scientist,0,42289,7
+460,"Docker, AWS, React",2,MBA,AWS Certified,Data Scientist,0,92215,2
+461,"React, Java, SQL",3,B.Sc,AWS Certified,ML Engineer,1,71110,18
+462,"Docker, AWS, Python",10,MBA,Azure Fundamentals,ML Engineer,1,67808,6
+463,"React, Data Analysis, SQL",4,M.Tech,Google Data Analytics,Data Scientist,1,113118,16
+464,"React, Data Analysis, Python",6,MBA,Google Data Analytics,Data Analyst,1,97075,18
+465,"AWS, Java, Machine Learning",4,B.Tech,Google Data Analytics,Data Scientist,1,47655,6
+466,"AWS, SQL, Docker",1,MBA,AWS Certified,Data Analyst,0,102366,1
+467,"Data Analysis, React, Java",10,B.Tech,AWS Certified,Data Analyst,0,60233,0
+468,"React, Data Analysis, AWS",6,B.Tech,AWS Certified,Data Scientist,1,99839,4
+469,"Data Analysis, Machine Learning, Java",6,B.Tech,PMP,ML Engineer,1,73805,11
+470,"SQL, Data Analysis, Python",2,B.Tech,Google Data Analytics,ML Engineer,1,38624,17
+471,"Machine Learning, Docker, React",3,M.Sc,AWS Certified,ML Engineer,1,93320,11
+472,"Machine Learning, Docker, AWS",0,MBA,AWS Certified,Data Scientist,0,88693,11
+473,"SQL, AWS, Java",5,B.Sc,Azure Fundamentals,Data Scientist,1,60641,18
+474,"Data Analysis, Docker, Python",8,M.Tech,PMP,Software Engineer,1,70157,20
+475,"SQL, Python, Docker",2,B.Sc,Google Data Analytics,Software Engineer,1,64872,6
+476,"AWS, React, Data Analysis",7,MBA,PMP,Data Scientist,1,55636,3
+477,"React, Machine Learning, Data Analysis",1,B.Tech,None,Software Engineer,0,78578,13
+478,"SQL, Docker, Machine Learning",4,M.Sc,PMP,Software Engineer,1,94099,17
+479,"Data Analysis, SQL, Python",5,M.Tech,None,Data Analyst,1,46741,12
+480,"Data Analysis, Java, AWS",7,MBA,Azure Fundamentals,Data Analyst,1,77153,12
+481,"Python, Data Analysis, Java",3,M.Tech,Google Data Analytics,Data Analyst,0,52578,2
+482,"Machine Learning, AWS, Python",2,M.Tech,AWS Certified,Data Analyst,1,64191,16
+483,"SQL, Machine Learning, Data Analysis",9,B.Tech,Azure Fundamentals,Software Engineer,1,46382,7
+484,"AWS, SQL, Data Analysis",10,MBA,PMP,Data Analyst,1,62555,6
+485,"Data Analysis, SQL, Machine Learning",4,M.Sc,Azure Fundamentals,Data Analyst,1,57741,5
+486,"Docker, Python, Java",9,M.Tech,AWS Certified,Data Analyst,1,46673,12
+487,"Docker, Python, Data Analysis",10,B.Sc,Azure Fundamentals,ML Engineer,1,77874,6
+488,"AWS, Machine Learning, Python",7,M.Sc,PMP,ML Engineer,0,90252,0
+489,"Python, SQL, Machine Learning",9,M.Sc,None,Data Scientist,0,33988,2
+490,"AWS, Python, Java",6,MBA,AWS Certified,Data Analyst,1,75744,20
+491,"Java, React, Python",3,B.Sc,AWS Certified,Data Scientist,1,107380,14
+492,"AWS, Java, Machine Learning",6,B.Tech,Google Data Analytics,Data Analyst,1,62757,3
+493,"React, SQL, Java",9,B.Sc,None,Data Analyst,1,87166,19
+494,"Docker, Java, React",1,B.Tech,Azure Fundamentals,Software Engineer,0,68428,12
+495,"Machine Learning, AWS, Python",0,M.Sc,AWS Certified,Software Engineer,0,111184,18
+496,"AWS, SQL, Docker",3,M.Tech,None,Software Engineer,1,49201,3
+497,"SQL, AWS, Machine Learning",1,M.Tech,AWS Certified,Data Analyst,0,102640,19
+498,"Java, AWS, SQL",3,M.Tech,PMP,Data Analyst,1,108103,12
+499,"AWS, Python, SQL",6,M.Tech,PMP,Software Engineer,1,72726,12
+500,"Python, Java, React",4,M.Tech,Azure Fundamentals,Data Analyst,1,104773,19
+501,"AWS, Machine Learning, React",10,M.Tech,PMP,ML Engineer,1,98241,20
+502,"Java, Data Analysis, React",10,M.Sc,Google Data Analytics,ML Engineer,0,76737,0
+503,"Java, React, Data Analysis",1,B.Sc,None,Software Engineer,0,100085,6
+504,"SQL, Python, Machine Learning",9,MBA,AWS Certified,Data Scientist,1,95503,14
+505,"Data Analysis, Docker, Machine Learning",0,M.Tech,None,Data Scientist,0,98314,0
+506,"Docker, Python, SQL",1,B.Tech,Azure Fundamentals,Software Engineer,0,64177,20
+507,"Machine Learning, React, Java",4,MBA,PMP,Data Analyst,1,78079,14
+508,"React, Data Analysis, SQL",8,M.Sc,Google Data Analytics,Software Engineer,1,81500,5
+509,"Java, SQL, React",6,MBA,PMP,Data Analyst,1,86662,12
+510,"SQL, Data Analysis, Machine Learning",1,M.Sc,Google Data Analytics,Data Analyst,0,101636,20
+511,"Machine Learning, Data Analysis, Python",0,B.Tech,AWS Certified,ML Engineer,0,93856,18
+512,"React, Machine Learning, Java",1,M.Sc,PMP,Data Scientist,0,76974,7
+513,"AWS, Java, Machine Learning",8,B.Tech,AWS Certified,Data Scientist,1,96671,14
+514,"Java, Docker, Data Analysis",5,MBA,AWS Certified,Data Scientist,1,69149,15
+515,"Python, Docker, Java",8,MBA,AWS Certified,Software Engineer,1,76270,14
+516,"AWS, Python, SQL",10,M.Sc,Google Data Analytics,ML Engineer,1,103979,9
+517,"SQL, Java, AWS",4,B.Tech,Azure Fundamentals,ML Engineer,1,80640,15
+518,"Docker, SQL, Machine Learning",2,B.Tech,PMP,Data Analyst,1,100463,13
+519,"Java, Machine Learning, Docker",5,MBA,AWS Certified,Data Scientist,0,44250,1
+520,"Java, AWS, Docker",4,MBA,AWS Certified,Data Scientist,1,64131,9
+521,"SQL, Python, Docker",0,MBA,PMP,Data Analyst,0,95071,5
+522,"Docker, Java, React",5,B.Tech,Google Data Analytics,Data Scientist,0,113371,2
+523,"Python, AWS, Java",4,M.Sc,None,ML Engineer,0,84669,0
+524,"AWS, SQL, Java",9,M.Sc,PMP,Data Analyst,1,85615,7
+525,"AWS, Machine Learning, Python",2,B.Tech,PMP,Software Engineer,1,111465,18
+526,"AWS, Docker, Python",7,MBA,Google Data Analytics,Software Engineer,1,94884,17
+527,"Docker, Machine Learning, React",2,MBA,None,Data Scientist,1,37281,14
+528,"React, AWS, Python",4,M.Sc,None,ML Engineer,1,82093,15
+529,"AWS, React, Machine Learning",1,M.Sc,Azure Fundamentals,ML Engineer,0,54096,19
+530,"Machine Learning, Data Analysis, React",0,B.Sc,PMP,Software Engineer,0,55091,10
+531,"Machine Learning, Python, Java",5,M.Tech,None,ML Engineer,1,58847,17
+532,"Java, SQL, Machine Learning",3,MBA,PMP,Data Scientist,1,110295,20
+533,"SQL, Data Analysis, AWS",8,B.Sc,Azure Fundamentals,ML Engineer,1,73770,8
+534,"Data Analysis, React, AWS",6,M.Sc,Azure Fundamentals,Software Engineer,0,46399,1
+535,"Data Analysis, Docker, React",0,B.Sc,AWS Certified,ML Engineer,0,55639,17
+536,"Docker, SQL, Python",10,M.Sc,Google Data Analytics,Software Engineer,1,49113,5
+537,"Data Analysis, Machine Learning, Docker",1,B.Sc,None,ML Engineer,0,34400,6
+538,"Java, Machine Learning, AWS",0,M.Tech,AWS Certified,ML Engineer,0,81003,17
+539,"Data Analysis, AWS, Docker",0,MBA,PMP,Data Scientist,0,63844,10
+540,"SQL, AWS, Docker",5,B.Tech,PMP,Software Engineer,0,37867,0
+541,"AWS, Python, Machine Learning",6,B.Sc,None,Software Engineer,1,36208,8
+542,"SQL, Data Analysis, AWS",7,MBA,AWS Certified,Data Analyst,1,87873,7
+543,"AWS, Docker, Machine Learning",0,M.Tech,Google Data Analytics,Software Engineer,0,62658,12
+544,"Data Analysis, Docker, React",6,M.Sc,Azure Fundamentals,Software Engineer,1,104359,7
+545,"AWS, SQL, Java",7,M.Sc,Azure Fundamentals,Data Analyst,1,85773,17
+546,"Java, Data Analysis, Machine Learning",6,M.Sc,AWS Certified,Software Engineer,1,56038,17
+547,"Java, Python, React",9,M.Sc,PMP,ML Engineer,1,102765,11
+548,"Machine Learning, React, Java",9,MBA,AWS Certified,Software Engineer,1,61136,12
+549,"Docker, AWS, SQL",1,M.Sc,None,ML Engineer,0,50292,8
+550,"SQL, Java, AWS",5,MBA,Azure Fundamentals,Data Analyst,0,68843,2
+551,"Docker, Java, Python",5,M.Sc,Azure Fundamentals,Software Engineer,1,43982,17
+552,"React, Data Analysis, Docker",4,M.Tech,AWS Certified,Software Engineer,0,64906,2
+553,"React, Java, Data Analysis",0,B.Sc,PMP,ML Engineer,0,67302,13
+554,"SQL, Python, Data Analysis",1,M.Tech,PMP,Software Engineer,0,105974,19
+555,"Java, AWS, React",1,M.Sc,PMP,Software Engineer,0,102855,19
+556,"Machine Learning, Docker, React",1,B.Tech,Google Data Analytics,Data Scientist,0,105724,14
+557,"SQL, AWS, Machine Learning",3,M.Tech,AWS Certified,Data Analyst,1,66161,8
+558,"Machine Learning, AWS, SQL",4,M.Tech,PMP,ML Engineer,1,59635,3
+559,"Machine Learning, AWS, Docker",3,M.Sc,PMP,Data Analyst,1,30735,18
+560,"Machine Learning, Data Analysis, Python",8,M.Tech,Azure Fundamentals,Data Scientist,1,78803,7
+561,"Java, Machine Learning, Docker",2,M.Sc,Azure Fundamentals,ML Engineer,1,67445,11
+562,"Machine Learning, Docker, Python",0,B.Tech,Azure Fundamentals,Data Scientist,0,55632,1
+563,"Docker, Python, AWS",4,B.Sc,None,ML Engineer,1,37339,8
+564,"Data Analysis, SQL, Machine Learning",7,B.Tech,Azure Fundamentals,Data Scientist,1,41137,17
+565,"Machine Learning, React, AWS",9,M.Sc,Google Data Analytics,Data Scientist,1,61363,13
+566,"Python, Java, React",5,B.Sc,PMP,Data Scientist,1,87304,9
+567,"Docker, Java, Machine Learning",3,M.Sc,Google Data Analytics,Software Engineer,1,97627,9
+568,"AWS, Data Analysis, SQL",7,B.Tech,None,Data Analyst,1,69200,4
+569,"SQL, Data Analysis, AWS",1,MBA,None,Software Engineer,0,102714,7
+570,"Data Analysis, AWS, SQL",0,B.Sc,PMP,ML Engineer,0,93410,14
+571,"Docker, SQL, Java",10,M.Tech,Azure Fundamentals,Software Engineer,1,114616,10
+572,"Machine Learning, Java, Data Analysis",3,M.Tech,Azure Fundamentals,Data Analyst,1,116447,5
+573,"Data Analysis, SQL, Machine Learning",4,B.Sc,Google Data Analytics,Data Analyst,1,114090,10
+574,"SQL, Machine Learning, React",3,MBA,AWS Certified,Software Engineer,0,104752,2
+575,"React, Machine Learning, Docker",0,MBA,None,ML Engineer,0,38418,15
+576,"Data Analysis, SQL, AWS",2,M.Sc,Google Data Analytics,Data Scientist,1,71101,13
+577,"SQL, Data Analysis, Docker",10,MBA,Google Data Analytics,Data Analyst,1,118053,17
+578,"Python, Machine Learning, React",7,B.Sc,Azure Fundamentals,Data Analyst,1,86452,5
+579,"SQL, React, Docker",8,B.Tech,Azure Fundamentals,ML Engineer,1,116140,18
+580,"Python, Docker, Java",9,MBA,Azure Fundamentals,Data Analyst,0,31574,0
+581,"Python, AWS, Data Analysis",7,B.Sc,Google Data Analytics,Data Analyst,1,118946,13
+582,"Docker, SQL, AWS",9,M.Tech,Azure Fundamentals,Software Engineer,1,40851,15
+583,"Data Analysis, SQL, Docker",5,B.Tech,Google Data Analytics,Data Scientist,1,66278,7
+584,"SQL, Data Analysis, Machine Learning",2,MBA,AWS Certified,Data Analyst,0,82452,2
+585,"React, Machine Learning, Docker",9,B.Tech,None,ML Engineer,1,86733,10
+586,"React, SQL, Machine Learning",9,MBA,None,Data Scientist,1,109045,4
+587,"SQL, Machine Learning, Java",9,B.Sc,None,Data Analyst,1,82510,19
+588,"AWS, React, SQL",3,M.Tech,PMP,Data Scientist,1,80390,16
+589,"Python, Data Analysis, SQL",2,M.Sc,Google Data Analytics,Data Scientist,1,45896,7
+590,"Docker, React, Machine Learning",10,MBA,Azure Fundamentals,Software Engineer,1,116087,16
+591,"SQL, Machine Learning, React",9,M.Sc,Google Data Analytics,ML Engineer,1,66332,9
+592,"Machine Learning, AWS, Data Analysis",7,M.Tech,Google Data Analytics,Software Engineer,1,59490,7
+593,"Docker, React, Java",5,B.Sc,None,Data Analyst,1,33170,10
+594,"Docker, AWS, Machine Learning",8,M.Sc,Azure Fundamentals,Software Engineer,0,34538,0
+595,"React, Java, Python",0,M.Sc,Azure Fundamentals,Data Analyst,0,43696,3
+596,"Java, SQL, Docker",5,B.Sc,None,ML Engineer,1,106732,11
+597,"SQL, Machine Learning, Data Analysis",10,M.Sc,None,Data Scientist,1,36539,3
+598,"Data Analysis, AWS, Machine Learning",5,M.Tech,None,ML Engineer,1,33987,5
+599,"AWS, React, Java",4,MBA,AWS Certified,ML Engineer,0,109254,1
+600,"React, Java, Data Analysis",3,M.Tech,PMP,Data Scientist,1,86016,16
+601,"Java, Data Analysis, SQL",5,MBA,PMP,Software Engineer,0,50927,1
+602,"React, AWS, Docker",2,M.Sc,Azure Fundamentals,Software Engineer,1,41393,11
+603,"AWS, Data Analysis, Python",8,B.Tech,Google Data Analytics,Data Analyst,1,60654,5
+604,"Python, Machine Learning, Java",2,B.Sc,AWS Certified,ML Engineer,1,39391,14
+605,"Data Analysis, React, Java",8,M.Sc,AWS Certified,ML Engineer,0,101141,0
+606,"Docker, Java, Machine Learning",3,B.Tech,AWS Certified,Data Scientist,0,87416,0
+607,"Machine Learning, AWS, Docker",7,M.Tech,AWS Certified,ML Engineer,0,115001,1
+608,"Data Analysis, React, Python",6,B.Tech,AWS Certified,Data Analyst,1,67767,19
+609,"Data Analysis, React, AWS",1,M.Tech,Google Data Analytics,Data Analyst,0,101257,17
+610,"Docker, AWS, Machine Learning",8,M.Tech,None,ML Engineer,1,78661,3
+611,"AWS, Data Analysis, SQL",7,M.Tech,Google Data Analytics,Data Scientist,1,57343,16
+612,"Data Analysis, SQL, Machine Learning",6,MBA,AWS Certified,Data Analyst,1,96028,12
+613,"SQL, Machine Learning, AWS",1,B.Sc,PMP,Software Engineer,0,88039,2
+614,"Machine Learning, Java, SQL",9,M.Sc,None,Data Scientist,1,41241,10
+615,"React, Python, Data Analysis",10,B.Sc,None,ML Engineer,1,102218,14
+616,"Docker, Data Analysis, React",7,B.Sc,PMP,ML Engineer,1,77457,16
+617,"React, SQL, AWS",9,B.Tech,Google Data Analytics,Data Analyst,1,33736,6
+618,"Docker, Python, AWS",10,M.Tech,AWS Certified,Software Engineer,1,97418,16
+619,"Java, React, Data Analysis",8,B.Tech,PMP,Data Scientist,1,50418,15
+620,"Docker, AWS, Python",2,MBA,None,Data Analyst,1,63032,19
+621,"AWS, SQL, Java",2,B.Tech,PMP,Data Analyst,1,102153,9
+622,"AWS, SQL, Data Analysis",4,M.Tech,AWS Certified,Data Scientist,1,112403,9
+623,"React, Docker, SQL",7,B.Sc,Google Data Analytics,ML Engineer,1,74220,20
+624,"Data Analysis, Docker, AWS",2,M.Tech,Google Data Analytics,Data Analyst,0,89152,2
+625,"Docker, Data Analysis, AWS",7,M.Sc,None,Software Engineer,1,48440,17
+626,"Docker, Data Analysis, SQL",7,B.Tech,Google Data Analytics,Data Analyst,1,62854,17
+627,"Data Analysis, Python, AWS",10,M.Tech,PMP,Data Analyst,1,97083,6
+628,"Machine Learning, Docker, Java",5,MBA,Google Data Analytics,Software Engineer,1,108310,15
+629,"AWS, Python, Java",7,B.Sc,Google Data Analytics,Data Analyst,1,48852,8
+630,"Docker, AWS, Python",7,M.Tech,Azure Fundamentals,Data Scientist,0,98431,0
+631,"Docker, SQL, React",8,B.Tech,PMP,Data Analyst,1,73961,19
+632,"React, Python, Machine Learning",0,M.Tech,PMP,Software Engineer,0,52982,4
+633,"Data Analysis, Python, SQL",2,M.Sc,PMP,Software Engineer,1,66969,17
+634,"AWS, Python, SQL",1,M.Tech,PMP,Data Scientist,0,33434,12
+635,"Machine Learning, React, Docker",1,M.Sc,PMP,Data Scientist,0,91701,5
+636,"Docker, SQL, Python",6,M.Tech,None,Data Analyst,1,104973,14
+637,"SQL, Docker, Machine Learning",6,MBA,Azure Fundamentals,Data Analyst,1,112855,17
+638,"Python, Docker, AWS",3,B.Tech,PMP,Data Analyst,1,43997,4
+639,"SQL, AWS, Python",7,B.Sc,AWS Certified,Data Scientist,1,104398,20
+640,"AWS, Data Analysis, SQL",0,MBA,Google Data Analytics,Data Analyst,0,63863,7
+641,"Machine Learning, Docker, AWS",1,M.Sc,AWS Certified,ML Engineer,0,58543,3
+642,"Docker, React, AWS",8,M.Tech,PMP,ML Engineer,1,97491,19
+643,"Docker, Java, SQL",8,B.Sc,AWS Certified,Data Analyst,1,83453,20
+644,"Java, Data Analysis, Docker",2,B.Sc,Google Data Analytics,Data Scientist,0,65059,0
+645,"SQL, AWS, React",10,B.Sc,PMP,ML Engineer,1,66284,9
+646,"React, Data Analysis, Machine Learning",3,M.Tech,None,Data Scientist,0,36874,0
+647,"SQL, AWS, Machine Learning",4,MBA,AWS Certified,Data Analyst,1,87141,6
+648,"Data Analysis, Java, Python",10,B.Tech,Google Data Analytics,Data Scientist,1,76327,7
+649,"Data Analysis, Java, Machine Learning",2,B.Tech,Azure Fundamentals,Software Engineer,0,54029,1
+650,"Python, Data Analysis, Docker",0,B.Sc,Google Data Analytics,Data Analyst,0,105611,12
+651,"Data Analysis, Machine Learning, Java",0,M.Sc,Google Data Analytics,Data Analyst,0,97852,11
+652,"Java, Machine Learning, Python",5,B.Tech,Google Data Analytics,ML Engineer,1,93734,12
+653,"AWS, Python, Machine Learning",0,B.Tech,PMP,Software Engineer,0,53735,5
+654,"Data Analysis, SQL, Java",3,M.Tech,PMP,Data Scientist,1,60774,17
+655,"Java, Python, SQL",3,B.Sc,Azure Fundamentals,ML Engineer,1,98737,10
+656,"Data Analysis, React, SQL",1,M.Tech,Azure Fundamentals,ML Engineer,0,72357,8
+657,"Data Analysis, SQL, AWS",8,M.Sc,AWS Certified,Software Engineer,1,85349,10
+658,"Python, AWS, Docker",7,B.Sc,None,ML Engineer,1,77778,13
+659,"Data Analysis, React, SQL",6,B.Tech,None,Data Analyst,1,44991,6
+660,"AWS, Data Analysis, Machine Learning",4,M.Sc,PMP,Software Engineer,1,71326,9
+661,"Machine Learning, SQL, Python",6,M.Sc,Google Data Analytics,Software Engineer,1,83386,15
+662,"React, Docker, AWS",0,MBA,Azure Fundamentals,ML Engineer,0,110019,0
+663,"AWS, React, Docker",4,B.Tech,None,Data Analyst,1,78133,4
+664,"AWS, Docker, Data Analysis",7,B.Tech,None,ML Engineer,1,97510,6
+665,"Machine Learning, React, Data Analysis",5,M.Sc,Google Data Analytics,Data Scientist,1,97341,9
+666,"Java, Python, SQL",5,B.Sc,None,Software Engineer,1,38898,5
+667,"React, Machine Learning, Java",9,M.Sc,None,Data Scientist,1,56477,8
+668,"AWS, SQL, React",0,B.Tech,AWS Certified,Data Scientist,0,114123,3
+669,"Data Analysis, SQL, Java",0,M.Sc,AWS Certified,Data Analyst,0,104470,4
+670,"Python, Docker, AWS",10,M.Tech,Azure Fundamentals,Data Scientist,1,83736,18
+671,"Data Analysis, Python, AWS",9,MBA,Azure Fundamentals,Software Engineer,1,69342,3
+672,"Python, AWS, Machine Learning",2,M.Tech,Google Data Analytics,Software Engineer,1,58970,7
+673,"Machine Learning, Java, React",1,M.Sc,Google Data Analytics,Software Engineer,0,44203,6
+674,"Machine Learning, Data Analysis, React",0,M.Tech,AWS Certified,Data Scientist,0,93787,4
+675,"Machine Learning, AWS, Data Analysis",10,B.Sc,Google Data Analytics,Data Scientist,1,83968,8
+676,"React, Data Analysis, SQL",1,MBA,PMP,Data Analyst,0,113936,3
+677,"AWS, Data Analysis, SQL",3,M.Tech,PMP,ML Engineer,1,43002,18
+678,"React, AWS, Machine Learning",8,B.Tech,Google Data Analytics,ML Engineer,0,62683,1
+679,"Machine Learning, Python, Java",3,MBA,Azure Fundamentals,Software Engineer,1,35926,5
+680,"Data Analysis, SQL, AWS",5,M.Tech,PMP,Software Engineer,1,67297,12
+681,"AWS, Python, Machine Learning",8,M.Sc,AWS Certified,ML Engineer,1,53169,16
+682,"Python, Data Analysis, SQL",8,B.Tech,AWS Certified,ML Engineer,1,64634,18
+683,"Python, SQL, Machine Learning",7,MBA,Azure Fundamentals,Data Scientist,1,82656,18
+684,"SQL, Docker, Python",6,MBA,None,Software Engineer,1,92055,7
+685,"Machine Learning, Docker, Data Analysis",10,M.Tech,AWS Certified,Software Engineer,1,34372,20
+686,"AWS, SQL, Python",7,M.Sc,AWS Certified,Data Scientist,1,101201,3
+687,"Docker, Python, SQL",5,M.Sc,None,ML Engineer,1,81986,16
+688,"React, Java, Data Analysis",8,B.Tech,Google Data Analytics,Software Engineer,1,54962,16
+689,"Java, Data Analysis, Python",6,B.Sc,None,Data Analyst,1,89750,7
+690,"Data Analysis, Machine Learning, Docker",9,B.Tech,Azure Fundamentals,Data Scientist,1,102607,8
+691,"Python, SQL, Machine Learning",1,B.Sc,None,Software Engineer,0,48801,18
+692,"React, AWS, Python",9,M.Tech,Azure Fundamentals,Software Engineer,1,81637,18
+693,"AWS, Data Analysis, Java",8,B.Tech,Google Data Analytics,ML Engineer,1,72912,4
+694,"Docker, AWS, React",4,M.Tech,Google Data Analytics,Data Analyst,1,30685,15
+695,"Machine Learning, Data Analysis, AWS",9,M.Sc,Azure Fundamentals,Software Engineer,1,92408,4
+696,"Data Analysis, SQL, Python",6,B.Tech,None,Data Analyst,0,46916,2
+697,"Java, SQL, AWS",6,M.Tech,AWS Certified,ML Engineer,1,57347,12
+698,"Data Analysis, Java, Machine Learning",1,B.Tech,None,Data Scientist,0,86852,19
+699,"Docker, SQL, Python",8,MBA,PMP,Software Engineer,0,67908,0
+700,"Data Analysis, Machine Learning, SQL",4,B.Sc,Google Data Analytics,Data Scientist,0,97631,2
+701,"Python, Data Analysis, Machine Learning",10,MBA,Azure Fundamentals,Software Engineer,1,63431,7
+702,"Data Analysis, Java, Machine Learning",1,B.Sc,PMP,Data Scientist,0,84012,10
+703,"React, Python, AWS",5,B.Tech,AWS Certified,Data Analyst,1,50070,6
+704,"Docker, AWS, Python",10,M.Sc,PMP,Data Analyst,1,77974,16
+705,"React, Java, SQL",4,B.Sc,Google Data Analytics,Data Scientist,1,105867,3
+706,"Machine Learning, AWS, Java",10,M.Sc,PMP,Data Scientist,1,100274,10
+707,"SQL, Data Analysis, React",0,MBA,Azure Fundamentals,Data Analyst,0,45259,8
+708,"Docker, SQL, Machine Learning",5,MBA,Azure Fundamentals,ML Engineer,1,112031,14
+709,"Machine Learning, Python, SQL",1,M.Tech,PMP,Software Engineer,0,99895,2
+710,"Docker, AWS, React",3,M.Tech,Azure Fundamentals,ML Engineer,1,104414,11
+711,"React, Data Analysis, Java",7,M.Tech,PMP,ML Engineer,1,37227,20
+712,"Java, SQL, Python",6,M.Tech,Azure Fundamentals,ML Engineer,1,77974,19
+713,"Python, Data Analysis, SQL",0,MBA,AWS Certified,Data Scientist,0,90566,3
+714,"AWS, Data Analysis, Java",10,B.Sc,None,Data Analyst,1,86986,18
+715,"Docker, AWS, SQL",9,B.Sc,Azure Fundamentals,ML Engineer,0,50966,2
+716,"Machine Learning, Python, Data Analysis",0,B.Sc,Google Data Analytics,Data Analyst,0,47035,9
+717,"AWS, React, Docker",9,MBA,Azure Fundamentals,Software Engineer,1,72612,14
+718,"SQL, Docker, Data Analysis",2,M.Tech,PMP,Data Scientist,1,88069,14
+719,"Data Analysis, Python, SQL",10,M.Sc,None,Data Analyst,1,100144,13
+720,"Docker, Python, Java",7,MBA,Google Data Analytics,Data Scientist,1,106318,9
+721,"Docker, Python, Java",5,M.Tech,Azure Fundamentals,Data Analyst,1,41782,11
+722,"Python, Docker, React",9,M.Sc,Google Data Analytics,Data Analyst,1,116186,8
+723,"React, SQL, Docker",5,M.Sc,AWS Certified,Data Analyst,1,107258,7
+724,"Docker, Machine Learning, Python",7,M.Sc,AWS Certified,ML Engineer,1,81371,7
+725,"SQL, Docker, React",7,MBA,None,ML Engineer,1,47506,4
+726,"SQL, AWS, Docker",7,B.Sc,Azure Fundamentals,Data Scientist,1,112443,9
+727,"Java, AWS, React",5,MBA,AWS Certified,Data Analyst,1,32799,20
+728,"Python, Data Analysis, SQL",6,MBA,None,Data Analyst,1,49358,19
+729,"Data Analysis, React, Docker",10,M.Sc,PMP,Software Engineer,1,66568,6
+730,"SQL, AWS, Machine Learning",4,M.Tech,Azure Fundamentals,Data Analyst,1,53357,20
+731,"Data Analysis, Docker, Java",8,M.Sc,AWS Certified,Data Analyst,1,58398,14
+732,"Data Analysis, Machine Learning, Python",4,B.Tech,PMP,ML Engineer,0,106001,1
+733,"Docker, Python, React",10,B.Sc,AWS Certified,ML Engineer,1,102697,15
+734,"SQL, Machine Learning, AWS",2,MBA,PMP,Software Engineer,1,100905,9
+735,"Java, Docker, React",2,M.Sc,AWS Certified,Data Analyst,1,81009,9
+736,"AWS, Data Analysis, Python",4,M.Sc,Google Data Analytics,ML Engineer,1,50514,5
+737,"Machine Learning, Docker, Java",1,M.Tech,None,Data Scientist,0,108175,18
+738,"Docker, Machine Learning, Data Analysis",6,MBA,PMP,Software Engineer,1,106701,18
+739,"Python, Data Analysis, SQL",4,M.Tech,PMP,Software Engineer,1,61969,15
+740,"SQL, Java, Data Analysis",8,B.Sc,PMP,Data Scientist,1,30990,12
+741,"Data Analysis, Python, Docker",6,M.Tech,PMP,ML Engineer,1,73062,8
+742,"Docker, AWS, Python",6,M.Tech,Azure Fundamentals,Data Scientist,0,69509,0
+743,"Java, SQL, Data Analysis",3,M.Sc,None,Software Engineer,1,108921,19
+744,"Docker, AWS, SQL",7,M.Sc,AWS Certified,Software Engineer,1,77050,15
+745,"Python, Data Analysis, Docker",8,B.Sc,None,ML Engineer,1,103858,4
+746,"Python, Data Analysis, SQL",4,M.Sc,Google Data Analytics,Data Analyst,1,65021,18
+747,"Java, AWS, SQL",6,M.Sc,AWS Certified,Software Engineer,1,116486,5
+748,"AWS, Java, Data Analysis",3,M.Tech,AWS Certified,Software Engineer,1,71483,10
+749,"Java, Python, React",10,B.Tech,Azure Fundamentals,Software Engineer,1,91290,20
+750,"AWS, React, Docker",6,B.Tech,Azure Fundamentals,Data Scientist,1,110631,3
+751,"Python, AWS, Java",10,MBA,Google Data Analytics,Software Engineer,1,58067,8
+752,"SQL, Machine Learning, AWS",9,MBA,AWS Certified,Data Analyst,1,83967,17
+753,"Data Analysis, React, Docker",6,B.Sc,Google Data Analytics,Data Scientist,0,93869,2
+754,"Java, Docker, AWS",7,B.Tech,None,Data Analyst,0,54277,0
+755,"SQL, Python, Docker",7,B.Sc,PMP,Software Engineer,0,70955,1
+756,"SQL, AWS, Java",9,B.Sc,AWS Certified,Data Analyst,1,96883,15
+757,"Docker, Java, React",7,M.Tech,Azure Fundamentals,Data Analyst,1,73099,10
+758,"Java, Python, Data Analysis",8,B.Tech,Google Data Analytics,Software Engineer,1,93450,6
+759,"React, AWS, Docker",2,M.Sc,Google Data Analytics,Data Scientist,1,91419,6
+760,"Data Analysis, React, Docker",8,B.Tech,None,ML Engineer,1,51253,5
+761,"Java, Data Analysis, Machine Learning",5,M.Sc,PMP,ML Engineer,1,73350,19
+762,"Java, Python, React",6,M.Tech,None,Data Scientist,1,61989,16
+763,"React, Machine Learning, SQL",7,B.Tech,PMP,ML Engineer,1,55692,7
+764,"Python, Docker, Machine Learning",1,B.Tech,PMP,ML Engineer,0,118937,14
+765,"AWS, SQL, Python",6,M.Tech,Google Data Analytics,Software Engineer,1,67513,6
+766,"Machine Learning, SQL, Docker",4,MBA,Google Data Analytics,Data Analyst,1,98896,12
+767,"Docker, Python, React",5,M.Sc,Azure Fundamentals,ML Engineer,0,84648,1
+768,"SQL, AWS, React",4,M.Sc,Azure Fundamentals,Data Analyst,1,106274,12
+769,"Data Analysis, Docker, Java",1,MBA,PMP,Software Engineer,0,79685,2
+770,"Docker, React, Java",7,B.Sc,PMP,Data Analyst,1,94531,11
+771,"React, Python, SQL",6,MBA,AWS Certified,Data Scientist,1,114407,18
+772,"AWS, Python, SQL",5,B.Tech,Google Data Analytics,ML Engineer,1,92939,5
+773,"Data Analysis, Java, Python",2,MBA,Google Data Analytics,Software Engineer,1,32802,4
+774,"Data Analysis, SQL, Python",10,B.Tech,AWS Certified,Software Engineer,1,31105,9
+775,"Machine Learning, Java, SQL",5,MBA,None,Data Scientist,1,68750,14
+776,"Docker, Machine Learning, Data Analysis",0,B.Sc,AWS Certified,ML Engineer,0,44951,11
+777,"Python, AWS, Machine Learning",2,B.Tech,PMP,Software Engineer,0,98191,2
+778,"Java, React, AWS",10,M.Tech,AWS Certified,ML Engineer,1,37130,6
+779,"AWS, SQL, Java",5,B.Tech,Azure Fundamentals,Data Scientist,1,71581,10
+780,"React, AWS, Python",2,B.Tech,None,Data Scientist,1,94208,3
+781,"React, Docker, Java",10,M.Tech,AWS Certified,Software Engineer,1,63263,4
+782,"Machine Learning, Python, AWS",1,MBA,Google Data Analytics,ML Engineer,0,78027,16
+783,"Java, Python, AWS",6,M.Sc,None,Data Scientist,1,40488,12
+784,"AWS, SQL, Python",2,B.Sc,PMP,Data Scientist,0,90923,1
+785,"Data Analysis, AWS, SQL",8,B.Sc,AWS Certified,Data Analyst,1,55005,8
+786,"Data Analysis, React, Python",4,B.Sc,PMP,Software Engineer,1,105094,14
+787,"Data Analysis, AWS, SQL",0,M.Sc,AWS Certified,Data Scientist,0,85089,20
+788,"Machine Learning, React, Python",6,B.Sc,Google Data Analytics,Data Scientist,1,40575,10
+789,"Docker, Data Analysis, React",2,B.Sc,None,Data Scientist,1,56405,19
+790,"Data Analysis, SQL, Java",2,B.Tech,None,Software Engineer,0,61484,2
+791,"Data Analysis, React, Python",9,M.Tech,Google Data Analytics,Data Analyst,1,103246,16
+792,"SQL, Data Analysis, Java",4,MBA,PMP,Data Scientist,1,88076,6
+793,"Python, React, Docker",9,MBA,AWS Certified,ML Engineer,1,48702,5
+794,"Java, React, Docker",9,MBA,None,Data Scientist,1,87074,4
+795,"SQL, React, Docker",0,B.Sc,Google Data Analytics,ML Engineer,0,49602,6
+796,"Docker, Data Analysis, SQL",8,MBA,PMP,Data Scientist,1,33384,7
+797,"Docker, Data Analysis, Machine Learning",2,M.Tech,PMP,Data Analyst,1,48080,8
+798,"Python, Machine Learning, Docker",8,M.Sc,None,Data Scientist,1,71784,13
+799,"AWS, SQL, Machine Learning",7,M.Sc,Google Data Analytics,Data Scientist,0,68929,2
+800,"AWS, Docker, Python",5,M.Tech,AWS Certified,Software Engineer,0,32293,1
+801,"SQL, Data Analysis, Java",5,MBA,Google Data Analytics,ML Engineer,1,92397,17
+802,"Java, Data Analysis, AWS",2,B.Sc,Google Data Analytics,Data Scientist,1,45173,8
+803,"SQL, React, Data Analysis",7,M.Sc,None,ML Engineer,1,54650,10
+804,"Data Analysis, SQL, Python",0,M.Sc,Google Data Analytics,Data Scientist,0,50490,14
+805,"React, Machine Learning, Docker",7,M.Sc,PMP,Software Engineer,1,84391,16
+806,"SQL, AWS, Docker",4,B.Sc,None,ML Engineer,0,74310,2
+807,"Docker, Machine Learning, Python",9,M.Tech,Google Data Analytics,Data Analyst,1,96144,17
+808,"AWS, Data Analysis, Python",8,MBA,AWS Certified,Data Scientist,1,74017,19
+809,"Data Analysis, AWS, Java",6,B.Sc,Google Data Analytics,Data Analyst,1,118488,7
+810,"SQL, Python, React",1,M.Sc,PMP,ML Engineer,0,40043,1
+811,"Python, SQL, Machine Learning",5,B.Sc,Google Data Analytics,Data Scientist,1,93706,5
+812,"Docker, SQL, Data Analysis",2,MBA,Google Data Analytics,Data Analyst,1,64175,4
+813,"SQL, Python, Machine Learning",5,B.Tech,PMP,Data Scientist,1,116485,8
+814,"Machine Learning, Docker, Data Analysis",0,M.Sc,None,Software Engineer,0,108822,13
+815,"React, Java, SQL",1,MBA,Azure Fundamentals,Data Analyst,0,77838,1
+816,"AWS, SQL, Machine Learning",3,MBA,Azure Fundamentals,Data Analyst,1,99037,4
+817,"Machine Learning, Java, Python",1,MBA,AWS Certified,Data Scientist,0,60688,18
+818,"SQL, Python, Data Analysis",0,B.Sc,PMP,ML Engineer,0,99952,3
+819,"Java, Docker, Python",3,B.Sc,Azure Fundamentals,ML Engineer,1,39895,11
+820,"Machine Learning, SQL, Python",0,B.Sc,Azure Fundamentals,Software Engineer,0,48036,18
+821,"Docker, Data Analysis, AWS",9,M.Tech,None,Data Analyst,1,82366,8
+822,"React, Python, Machine Learning",6,M.Tech,Google Data Analytics,Software Engineer,1,74774,20
+823,"Data Analysis, AWS, SQL",2,B.Sc,None,ML Engineer,1,65813,7
+824,"Data Analysis, Docker, SQL",0,B.Tech,AWS Certified,ML Engineer,0,52493,8
+825,"Python, AWS, React",7,B.Sc,Google Data Analytics,Data Scientist,1,91201,7
+826,"Java, AWS, SQL",9,B.Tech,Google Data Analytics,Data Scientist,1,92915,11
+827,"Docker, React, Python",1,B.Tech,PMP,Data Analyst,0,59124,6
+828,"Python, Machine Learning, AWS",6,B.Sc,Azure Fundamentals,Data Analyst,0,87793,1
+829,"AWS, React, Docker",5,B.Tech,Azure Fundamentals,ML Engineer,1,56133,12
+830,"Machine Learning, Python, AWS",4,B.Sc,Azure Fundamentals,Software Engineer,1,41530,4
+831,"Machine Learning, AWS, Docker",8,M.Tech,None,Data Scientist,1,41661,3
+832,"AWS, Docker, Java",2,M.Sc,Google Data Analytics,Software Engineer,1,118824,3
+833,"Machine Learning, React, Python",4,MBA,AWS Certified,Data Scientist,0,73968,1
+834,"AWS, React, Machine Learning",0,M.Sc,AWS Certified,Software Engineer,0,60623,3
+835,"SQL, Python, Java",8,B.Tech,AWS Certified,Data Analyst,1,119480,13
+836,"Data Analysis, React, Machine Learning",2,B.Sc,AWS Certified,Software Engineer,1,95769,8
+837,"SQL, Docker, Machine Learning",5,B.Sc,Azure Fundamentals,Data Scientist,0,74968,2
+838,"Machine Learning, Data Analysis, Java",7,M.Tech,PMP,ML Engineer,1,70957,3
+839,"SQL, React, Python",8,B.Sc,None,Data Scientist,1,34967,7
+840,"Machine Learning, AWS, Docker",5,MBA,AWS Certified,ML Engineer,1,64670,17
+841,"Machine Learning, Java, AWS",1,B.Sc,PMP,Data Scientist,0,81276,7
+842,"React, Machine Learning, Data Analysis",6,M.Tech,Google Data Analytics,ML Engineer,1,72565,3
+843,"Java, Machine Learning, SQL",3,B.Sc,Azure Fundamentals,Software Engineer,1,53360,15
+844,"React, Docker, Java",0,M.Sc,PMP,Data Analyst,0,112588,8
+845,"Data Analysis, SQL, React",6,B.Sc,Google Data Analytics,Data Analyst,1,70565,5
+846,"React, Data Analysis, Java",7,M.Tech,None,Software Engineer,0,92963,0
+847,"Java, SQL, React",1,M.Tech,Azure Fundamentals,Data Analyst,0,108856,11
+848,"SQL, Docker, Machine Learning",0,B.Sc,PMP,Data Analyst,0,59650,2
+849,"Java, Docker, Data Analysis",6,M.Tech,AWS Certified,Data Scientist,1,61498,11
+850,"Java, React, Python",7,B.Tech,Google Data Analytics,ML Engineer,1,93837,16
+851,"Data Analysis, Python, Docker",4,B.Sc,Azure Fundamentals,Data Scientist,1,102113,8
+852,"AWS, React, Python",2,B.Sc,Azure Fundamentals,Data Scientist,1,109487,14
+853,"Python, Java, Data Analysis",6,M.Sc,Azure Fundamentals,Software Engineer,1,91910,13
+854,"Data Analysis, Machine Learning, Docker",7,B.Sc,PMP,ML Engineer,1,73367,7
+855,"Python, Docker, Data Analysis",0,MBA,Azure Fundamentals,Software Engineer,0,58731,18
+856,"AWS, Python, Machine Learning",7,M.Tech,None,Data Scientist,1,56921,20
+857,"Machine Learning, React, Docker",9,M.Sc,Azure Fundamentals,Data Scientist,1,40275,15
+858,"SQL, Python, AWS",1,B.Sc,AWS Certified,Data Scientist,0,95369,16
+859,"Data Analysis, Java, React",4,M.Sc,None,ML Engineer,1,89433,19
+860,"React, SQL, Data Analysis",2,B.Tech,AWS Certified,Data Analyst,1,103299,7
+861,"AWS, Python, SQL",2,B.Tech,None,Data Analyst,1,93521,3
+862,"Data Analysis, SQL, Python",1,M.Tech,Azure Fundamentals,Data Analyst,0,101097,7
+863,"SQL, Docker, Machine Learning",1,B.Tech,None,ML Engineer,0,104412,11
+864,"Python, Java, SQL",8,M.Tech,None,Software Engineer,1,67238,20
+865,"Python, Machine Learning, Docker",6,M.Sc,Google Data Analytics,Software Engineer,0,41809,0
+866,"Python, Java, Data Analysis",0,B.Tech,Azure Fundamentals,Data Analyst,0,64718,4
+867,"Python, Java, Docker",5,M.Sc,PMP,Data Analyst,1,101493,19
+868,"Docker, Machine Learning, Data Analysis",7,M.Tech,Google Data Analytics,Data Analyst,1,56575,15
+869,"Machine Learning, SQL, Data Analysis",1,M.Sc,PMP,Data Scientist,0,54850,3
+870,"AWS, Machine Learning, Python",2,M.Tech,AWS Certified,Data Scientist,1,42396,6
+871,"Data Analysis, SQL, Python",5,M.Sc,None,Data Analyst,0,90693,1
+872,"Java, Data Analysis, Python",6,B.Sc,None,Software Engineer,1,80256,5
+873,"React, Data Analysis, Docker",1,B.Sc,None,Data Scientist,0,65672,3
+874,"AWS, SQL, Docker",10,M.Tech,PMP,Software Engineer,1,93058,7
+875,"Data Analysis, Python, React",3,MBA,None,ML Engineer,1,54155,7
+876,"Python, SQL, Data Analysis",9,B.Tech,AWS Certified,Software Engineer,1,59406,14
+877,"Data Analysis, Python, React",2,M.Sc,Google Data Analytics,Data Scientist,0,99457,2
+878,"Machine Learning, Java, AWS",6,M.Sc,AWS Certified,Data Analyst,1,73419,19
+879,"Docker, Machine Learning, Python",5,B.Tech,None,Data Analyst,1,39160,17
+880,"SQL, Docker, AWS",5,M.Tech,None,Data Scientist,1,56829,11
+881,"Python, AWS, SQL",8,M.Sc,AWS Certified,Software Engineer,1,94550,8
+882,"Java, React, SQL",6,B.Sc,Google Data Analytics,Data Analyst,1,72907,8
+883,"React, SQL, Machine Learning",0,B.Tech,None,ML Engineer,0,82813,8
+884,"AWS, Docker, SQL",0,MBA,AWS Certified,Data Scientist,0,49748,19
+885,"Docker, Machine Learning, Python",8,B.Sc,Azure Fundamentals,ML Engineer,1,56259,16
+886,"React, Data Analysis, Python",9,B.Sc,PMP,Software Engineer,1,56778,8
+887,"Machine Learning, AWS, SQL",2,B.Tech,PMP,Data Scientist,1,68863,5
+888,"SQL, Data Analysis, Docker",1,MBA,None,Data Scientist,0,78474,11
+889,"React, Docker, Data Analysis",7,B.Sc,Google Data Analytics,Data Analyst,1,33007,20
+890,"Python, SQL, Machine Learning",0,B.Sc,None,Data Analyst,0,80123,1
+891,"Docker, AWS, Machine Learning",8,M.Tech,Google Data Analytics,Data Scientist,1,99284,9
+892,"Data Analysis, React, AWS",3,B.Tech,AWS Certified,Software Engineer,1,30592,4
+893,"Java, AWS, Data Analysis",7,B.Sc,PMP,ML Engineer,1,102960,16
+894,"Python, React, Machine Learning",8,M.Tech,Google Data Analytics,Data Analyst,0,50790,1
+895,"AWS, SQL, Java",5,M.Sc,Azure Fundamentals,Data Analyst,1,86513,6
+896,"Java, Data Analysis, Machine Learning",2,M.Tech,Azure Fundamentals,ML Engineer,1,92747,13
+897,"React, AWS, Python",4,B.Sc,None,Data Scientist,1,59860,19
+898,"SQL, AWS, React",10,M.Tech,PMP,Data Scientist,1,40319,4
+899,"Machine Learning, React, Java",1,B.Sc,AWS Certified,Software Engineer,0,98183,10
+900,"Python, React, Docker",3,B.Sc,PMP,ML Engineer,0,112617,0
+901,"Python, Machine Learning, AWS",10,M.Tech,Azure Fundamentals,Software Engineer,1,37353,19
+902,"SQL, Machine Learning, React",10,B.Tech,AWS Certified,Data Analyst,1,55794,10
+903,"Python, AWS, React",7,B.Sc,AWS Certified,ML Engineer,1,41391,18
+904,"SQL, Machine Learning, Data Analysis",5,M.Sc,AWS Certified,Data Scientist,1,85679,20
+905,"AWS, Machine Learning, Java",5,B.Sc,Azure Fundamentals,Data Analyst,1,32736,20
+906,"SQL, AWS, Docker",10,M.Tech,None,ML Engineer,1,79225,13
+907,"Machine Learning, Data Analysis, Docker",0,B.Sc,AWS Certified,Software Engineer,0,73606,10
+908,"Docker, SQL, Python",5,MBA,Azure Fundamentals,ML Engineer,0,104093,0
+909,"Machine Learning, React, AWS",10,M.Tech,Azure Fundamentals,Data Scientist,1,96079,4
+910,"Data Analysis, Java, Machine Learning",8,B.Sc,AWS Certified,Software Engineer,1,111426,15
+911,"Machine Learning, Docker, SQL",10,MBA,Google Data Analytics,ML Engineer,1,112203,9
+912,"AWS, SQL, Docker",8,MBA,PMP,Software Engineer,1,68815,20
+913,"Machine Learning, Python, React",3,B.Sc,AWS Certified,Data Analyst,1,113534,17
+914,"Python, Data Analysis, Machine Learning",1,MBA,None,ML Engineer,0,90631,4
+915,"AWS, Java, Data Analysis",4,M.Sc,Google Data Analytics,ML Engineer,1,83732,16
+916,"Machine Learning, SQL, Java",2,B.Tech,Google Data Analytics,Software Engineer,0,35305,0
+917,"Python, Machine Learning, Docker",3,M.Sc,AWS Certified,ML Engineer,1,72941,12
+918,"Machine Learning, Python, Docker",4,MBA,AWS Certified,Software Engineer,1,42668,20
+919,"Java, Data Analysis, Docker",6,M.Tech,None,Software Engineer,1,35319,18
+920,"Python, Java, Data Analysis",0,MBA,AWS Certified,Software Engineer,0,92114,18
+921,"SQL, Machine Learning, React",6,M.Sc,AWS Certified,Data Scientist,1,115421,7
+922,"AWS, Python, Data Analysis",7,MBA,AWS Certified,Data Scientist,1,119361,19
+923,"AWS, Docker, Data Analysis",7,M.Sc,Azure Fundamentals,Software Engineer,1,108393,10
+924,"Data Analysis, AWS, SQL",7,M.Tech,Azure Fundamentals,Data Scientist,1,94598,15
+925,"SQL, React, Java",6,M.Tech,Google Data Analytics,Data Scientist,1,88999,3
+926,"Data Analysis, Python, Docker",9,M.Sc,None,ML Engineer,1,100884,6
+927,"Data Analysis, SQL, Machine Learning",5,B.Sc,PMP,ML Engineer,1,60916,6
+928,"React, Python, AWS",2,M.Sc,Azure Fundamentals,Software Engineer,1,39952,7
+929,"AWS, Java, Python",5,B.Tech,Google Data Analytics,Data Scientist,1,61795,15
+930,"Machine Learning, SQL, Python",2,M.Tech,Google Data Analytics,Data Scientist,1,58228,11
+931,"Docker, SQL, AWS",7,M.Sc,Azure Fundamentals,Software Engineer,1,119037,13
+932,"Data Analysis, Java, SQL",10,B.Tech,AWS Certified,Data Analyst,1,65227,19
+933,"Python, AWS, Java",1,B.Sc,Google Data Analytics,ML Engineer,0,52156,8
+934,"Python, AWS, React",6,M.Tech,Azure Fundamentals,Data Analyst,0,55025,2
+935,"Machine Learning, SQL, React",4,MBA,Azure Fundamentals,ML Engineer,1,44188,8
+936,"AWS, React, Data Analysis",9,B.Tech,AWS Certified,Data Scientist,1,82691,10
+937,"Machine Learning, SQL, Python",6,M.Sc,AWS Certified,Data Scientist,1,103141,16
+938,"React, Docker, Machine Learning",6,MBA,None,Data Analyst,1,47937,14
+939,"Data Analysis, Python, SQL",6,MBA,Azure Fundamentals,Data Scientist,1,30905,17
+940,"React, Data Analysis, Docker",5,MBA,Google Data Analytics,Data Analyst,1,93889,9
+941,"Data Analysis, AWS, React",9,MBA,Azure Fundamentals,Data Scientist,1,71352,7
+942,"Docker, AWS, React",3,B.Tech,AWS Certified,Software Engineer,1,84717,19
+943,"SQL, Machine Learning, AWS",9,B.Tech,Google Data Analytics,Data Scientist,1,92494,5
+944,"Python, Data Analysis, React",3,M.Sc,AWS Certified,ML Engineer,1,72001,14
+945,"Java, Python, Docker",6,M.Sc,None,ML Engineer,0,109980,1
+946,"Data Analysis, AWS, Docker",5,M.Tech,Azure Fundamentals,Software Engineer,1,118810,16
+947,"Machine Learning, AWS, Python",1,MBA,None,Data Analyst,0,95112,7
+948,"Java, Python, Machine Learning",1,M.Tech,Azure Fundamentals,Data Scientist,0,46042,13
+949,"Docker, Data Analysis, Machine Learning",2,B.Sc,Azure Fundamentals,ML Engineer,1,90108,9
+950,"React, SQL, Machine Learning",10,B.Sc,None,Data Scientist,0,74409,1
+951,"Python, Docker, Machine Learning",10,M.Tech,AWS Certified,Data Analyst,1,105672,13
+952,"Docker, Machine Learning, AWS",2,B.Sc,PMP,Data Analyst,0,38494,1
+953,"Docker, Java, SQL",10,MBA,Azure Fundamentals,Software Engineer,1,41704,6
+954,"Java, Docker, SQL",0,B.Sc,PMP,Data Analyst,0,41840,13
+955,"React, Docker, Data Analysis",5,MBA,PMP,Data Analyst,0,115268,2
+956,"Java, Docker, Python",10,M.Sc,Google Data Analytics,Data Analyst,1,43900,8
+957,"Machine Learning, SQL, Java",1,B.Sc,Google Data Analytics,Software Engineer,0,105117,11
+958,"Python, React, Data Analysis",0,B.Tech,None,Data Scientist,0,91986,13
+959,"Java, Data Analysis, Python",3,B.Sc,Azure Fundamentals,Software Engineer,1,40138,20
+960,"Python, React, Data Analysis",3,M.Sc,AWS Certified,Data Analyst,1,34247,13
+961,"SQL, Java, Data Analysis",2,M.Tech,Azure Fundamentals,ML Engineer,1,55218,9
+962,"Java, Machine Learning, Docker",4,MBA,Google Data Analytics,ML Engineer,1,82752,18
+963,"React, SQL, Java",2,M.Tech,Google Data Analytics,Data Analyst,1,31754,17
+964,"Docker, Machine Learning, Java",2,MBA,PMP,Software Engineer,1,45486,7
+965,"AWS, Machine Learning, Python",1,M.Tech,Azure Fundamentals,Data Scientist,0,90481,9
+966,"React, SQL, AWS",9,M.Tech,Google Data Analytics,ML Engineer,1,33481,6
+967,"Data Analysis, Docker, AWS",8,M.Tech,Azure Fundamentals,Software Engineer,1,71176,16
+968,"React, Python, Data Analysis",2,M.Tech,Google Data Analytics,Software Engineer,1,72355,7
+969,"Python, SQL, Data Analysis",7,B.Sc,AWS Certified,Data Scientist,1,105090,18
+970,"React, SQL, Java",9,M.Tech,PMP,ML Engineer,1,38163,16
+971,"SQL, Java, React",2,MBA,None,Software Engineer,1,119827,19
+972,"React, AWS, Machine Learning",6,MBA,PMP,Data Analyst,1,44897,9
+973,"Data Analysis, Python, AWS",3,M.Sc,PMP,Software Engineer,1,55848,15
+974,"AWS, Machine Learning, SQL",0,M.Sc,Azure Fundamentals,Data Scientist,0,66573,12
+975,"Docker, Data Analysis, React",0,B.Sc,Google Data Analytics,Software Engineer,0,35362,16
+976,"Python, AWS, Machine Learning",10,B.Sc,PMP,Data Analyst,1,102744,20
+977,"SQL, AWS, Machine Learning",6,M.Sc,None,Data Analyst,1,109424,16
+978,"SQL, Data Analysis, React",4,B.Sc,PMP,ML Engineer,1,103401,4
+979,"Data Analysis, Machine Learning, SQL",9,B.Sc,Google Data Analytics,Data Analyst,1,34014,4
+980,"SQL, React, Docker",0,B.Sc,Azure Fundamentals,Software Engineer,0,38936,16
+981,"Docker, AWS, Machine Learning",8,M.Tech,Azure Fundamentals,ML Engineer,0,74321,1
+982,"React, Docker, Java",10,B.Sc,Google Data Analytics,Data Analyst,0,43899,1
+983,"AWS, Data Analysis, SQL",3,M.Sc,Azure Fundamentals,ML Engineer,1,67973,19
+984,"SQL, Docker, Java",3,B.Sc,None,ML Engineer,1,113315,17
+985,"Data Analysis, Java, React",9,B.Tech,None,Data Analyst,1,73264,8
+986,"React, SQL, Java",3,B.Tech,AWS Certified,Data Scientist,1,62468,12
+987,"React, Data Analysis, Java",7,MBA,Google Data Analytics,Data Analyst,1,89439,12
+988,"Docker, Python, SQL",2,M.Tech,Google Data Analytics,Data Scientist,1,113222,14
+989,"Docker, AWS, Java",0,M.Sc,PMP,Software Engineer,0,110544,14
+990,"Python, Docker, SQL",8,B.Tech,None,ML Engineer,1,60937,10
+991,"Java, Docker, React",5,B.Tech,Azure Fundamentals,Data Scientist,1,52951,19
+992,"SQL, Java, AWS",5,MBA,None,ML Engineer,0,53397,0
+993,"Java, Python, React",4,B.Sc,AWS Certified,Data Analyst,1,99345,20
+994,"Java, SQL, Python",0,B.Tech,Google Data Analytics,Software Engineer,0,63077,6
+995,"Python, Docker, Java",0,MBA,Google Data Analytics,Software Engineer,0,54844,0
+996,"Java, Python, AWS",3,B.Sc,None,Data Analyst,1,75824,4
+997,"Docker, React, Python",1,MBA,None,ML Engineer,0,76268,9
+998,"SQL, AWS, Data Analysis",6,M.Sc,Google Data Analytics,Data Analyst,1,73050,14
+999,"React, Python, Docker",9,B.Tech,AWS Certified,Data Analyst,1,111779,20
+1000,"React, AWS, SQL",3,MBA,Azure Fundamentals,Software Engineer,1,90561,18
